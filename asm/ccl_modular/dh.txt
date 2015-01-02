@@ -1,0 +1,1321 @@
+// class version 50.0 (50)
+// access flags 0x21
+public class dh extends dy  {
+
+  // compiled from: SourceFile
+
+  // access flags 0x1A
+  private final static Lorg/apache/logging/log4j/Logger; b
+
+  // access flags 0x2
+  private Ljava/util/Map; c
+
+  // access flags 0x1
+  public <init>()V
+   L0
+    LINENUMBER 18 L0
+    ALOAD 0
+    INVOKESPECIAL dy.<init> ()V
+   L1
+    LINENUMBER 16 L1
+    ALOAD 0
+    NEW java/util/HashMap
+    DUP
+    INVOKESPECIAL java/util/HashMap.<init> ()V
+    PUTFIELD dh.c : Ljava/util/Map;
+   L2
+    LINENUMBER 19 L2
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 1
+
+  // access flags 0x0
+  a(Ljava/io/DataOutput;)V
+   L0
+    LINENUMBER 23 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.keySet ()Ljava/util/Set;
+    INVOKEINTERFACE java/util/Set.iterator ()Ljava/util/Iterator;
+    ASTORE 2
+   L1
+   FRAME FULL [dh java/io/DataOutput java/util/Iterator] []
+    ALOAD 2
+    INVOKEINTERFACE java/util/Iterator.hasNext ()Z
+    IFEQ L2
+    ALOAD 2
+    INVOKEINTERFACE java/util/Iterator.next ()Ljava/lang/Object;
+    CHECKCAST java/lang/String
+    ASTORE 3
+   L3
+    LINENUMBER 24 L3
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 3
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dy
+    ASTORE 4
+   L4
+    LINENUMBER 25 L4
+    ALOAD 3
+    ALOAD 4
+    ALOAD 1
+    INVOKESTATIC dh.a (Ljava/lang/String;Ldy;Ljava/io/DataOutput;)V
+   L5
+    LINENUMBER 26 L5
+    GOTO L1
+   L2
+    LINENUMBER 27 L2
+   FRAME FULL [dh java/io/DataOutput java/util/Iterator] []
+    ALOAD 1
+    ICONST_0
+    INVOKEINTERFACE java/io/DataOutput.writeByte (I)V
+   L6
+    LINENUMBER 28 L6
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 5
+
+  // access flags 0x0
+  a(Ljava/io/DataInput;ILds;)V
+   L0
+    LINENUMBER 32 L0
+    ILOAD 2
+    SIPUSH 512
+    IF_ICMPLE L1
+   L2
+    LINENUMBER 33 L2
+    NEW java/lang/RuntimeException
+    DUP
+    LDC "Tried to read NBT tag with too high complexity, depth > 512"
+    INVOKESPECIAL java/lang/RuntimeException.<init> (Ljava/lang/String;)V
+    ATHROW
+   L1
+    LINENUMBER 35 L1
+   FRAME FULL [dh java/io/DataInput I ds] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.clear ()V
+   L3
+    LINENUMBER 37 L3
+   FRAME FULL [dh java/io/DataInput I ds] []
+    ALOAD 1
+    ALOAD 3
+    INVOKESTATIC dh.a (Ljava/io/DataInput;Lds;)B
+    DUP
+    ISTORE 4
+    IFEQ L4
+   L5
+    LINENUMBER 38 L5
+    ALOAD 1
+    ALOAD 3
+    INVOKESTATIC dh.b (Ljava/io/DataInput;Lds;)Ljava/lang/String;
+    ASTORE 5
+   L6
+    LINENUMBER 40 L6
+    ALOAD 3
+    BIPUSH 16
+    ALOAD 5
+    INVOKEVIRTUAL java/lang/String.length ()I
+    IMUL
+    I2L
+    INVOKEVIRTUAL ds.a (J)V
+   L7
+    LINENUMBER 41 L7
+    ILOAD 4
+    ALOAD 5
+    ALOAD 1
+    ILOAD 2
+    ICONST_1
+    IADD
+    ALOAD 3
+    INVOKESTATIC dh.a (BLjava/lang/String;Ljava/io/DataInput;ILds;)Ldy;
+    ASTORE 6
+   L8
+    LINENUMBER 42 L8
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 5
+    ALOAD 6
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L9
+    LINENUMBER 43 L9
+    GOTO L3
+   L4
+    LINENUMBER 44 L4
+   FRAME FULL [dh java/io/DataInput I ds I] []
+    RETURN
+    MAXSTACK = 5
+    MAXLOCALS = 7
+
+  // access flags 0x1
+  public c()Ljava/util/Set;
+   L0
+    LINENUMBER 47 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.keySet ()Ljava/util/Set;
+    ARETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public a()B
+   L0
+    LINENUMBER 52 L0
+    BIPUSH 10
+    IRETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public a(Ljava/lang/String;Ldy;)V
+   L0
+    LINENUMBER 56 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    ALOAD 2
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 57 L1
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;B)V
+   L0
+    LINENUMBER 60 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW dg
+    DUP
+    ILOAD 2
+    INVOKESPECIAL dg.<init> (B)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 61 L1
+    RETURN
+    MAXSTACK = 5
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;S)V
+   L0
+    LINENUMBER 64 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW dw
+    DUP
+    ILOAD 2
+    INVOKESPECIAL dw.<init> (S)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 65 L1
+    RETURN
+    MAXSTACK = 5
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;I)V
+   L0
+    LINENUMBER 68 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW dp
+    DUP
+    ILOAD 2
+    INVOKESPECIAL dp.<init> (I)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 69 L1
+    RETURN
+    MAXSTACK = 5
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;J)V
+   L0
+    LINENUMBER 72 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW dr
+    DUP
+    LLOAD 2
+    INVOKESPECIAL dr.<init> (J)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 73 L1
+    RETURN
+    MAXSTACK = 6
+    MAXLOCALS = 4
+
+  // access flags 0x1
+  public a(Ljava/lang/String;F)V
+   L0
+    LINENUMBER 76 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW dm
+    DUP
+    FLOAD 2
+    INVOKESPECIAL dm.<init> (F)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 77 L1
+    RETURN
+    MAXSTACK = 5
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;D)V
+   L0
+    LINENUMBER 80 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW dk
+    DUP
+    DLOAD 2
+    INVOKESPECIAL dk.<init> (D)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 81 L1
+    RETURN
+    MAXSTACK = 6
+    MAXLOCALS = 4
+
+  // access flags 0x1
+  public a(Ljava/lang/String;Ljava/lang/String;)V
+   L0
+    LINENUMBER 84 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW dx
+    DUP
+    ALOAD 2
+    INVOKESPECIAL dx.<init> (Ljava/lang/String;)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 85 L1
+    RETURN
+    MAXSTACK = 5
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;[B)V
+   L0
+    LINENUMBER 88 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW df
+    DUP
+    ALOAD 2
+    INVOKESPECIAL df.<init> ([B)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 89 L1
+    RETURN
+    MAXSTACK = 5
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;[I)V
+   L0
+    LINENUMBER 92 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    NEW dn
+    DUP
+    ALOAD 2
+    INVOKESPECIAL dn.<init> ([I)V
+    INVOKEINTERFACE java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 93 L1
+    RETURN
+    MAXSTACK = 5
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;Z)V
+   L0
+    LINENUMBER 96 L0
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    IFEQ L1
+    ICONST_1
+    GOTO L2
+   L1
+   FRAME FULL [dh java/lang/String I] [dh java/lang/String]
+    ICONST_0
+   L2
+   FRAME FULL [dh java/lang/String I] [dh java/lang/String I]
+    INVOKEVIRTUAL dh.a (Ljava/lang/String;B)V
+   L3
+    LINENUMBER 97 L3
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public a(Ljava/lang/String;)Ldy;
+   L0
+    LINENUMBER 100 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dy
+    ARETURN
+    MAXSTACK = 2
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public b(Ljava/lang/String;)B
+   L0
+    LINENUMBER 104 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dy
+    ASTORE 2
+   L1
+    LINENUMBER 105 L1
+    ALOAD 2
+    IFNULL L2
+   L3
+    LINENUMBER 106 L3
+    ALOAD 2
+    INVOKEVIRTUAL dy.a ()B
+    IRETURN
+   L2
+    LINENUMBER 108 L2
+   FRAME FULL [dh java/lang/String dy] []
+    ICONST_0
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public c(Ljava/lang/String;)Z
+   L0
+    LINENUMBER 112 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public b(Ljava/lang/String;I)Z
+   L0
+    LINENUMBER 116 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKEVIRTUAL dh.b (Ljava/lang/String;)B
+    ISTORE 3
+   L1
+    LINENUMBER 117 L1
+    ILOAD 3
+    ILOAD 2
+    IF_ICMPNE L2
+   L3
+    LINENUMBER 118 L3
+    ICONST_1
+    IRETURN
+   L2
+    LINENUMBER 120 L2
+   FRAME FULL [dh java/lang/String I I] []
+    ILOAD 2
+    BIPUSH 99
+    IF_ICMPNE L4
+   L5
+    LINENUMBER 121 L5
+    ILOAD 3
+    ICONST_1
+    IF_ICMPEQ L6
+    ILOAD 3
+    ICONST_2
+    IF_ICMPEQ L6
+    ILOAD 3
+    ICONST_3
+    IF_ICMPEQ L6
+    ILOAD 3
+    ICONST_4
+    IF_ICMPEQ L6
+    ILOAD 3
+    ICONST_5
+    IF_ICMPEQ L6
+    ILOAD 3
+    BIPUSH 6
+    IF_ICMPNE L7
+   L6
+   FRAME FULL [dh java/lang/String I I] []
+    ICONST_1
+    GOTO L8
+   L7
+   FRAME FULL [dh java/lang/String I I] []
+    ICONST_0
+   L8
+   FRAME FULL [dh java/lang/String I I] [I]
+    IRETURN
+   L4
+    LINENUMBER 124 L4
+   FRAME FULL [dh java/lang/String I I] []
+    ICONST_0
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 4
+
+  // access flags 0x1
+  public d(Ljava/lang/String;)B
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 129 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    ICONST_0
+   L1
+    IRETURN
+   L3
+    LINENUMBER 130 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dz
+    INVOKEVIRTUAL dz.f ()B
+   L4
+    IRETURN
+   L2
+    LINENUMBER 131 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 132 L5
+    ICONST_0
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public e(Ljava/lang/String;)S
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 138 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    ICONST_0
+   L1
+    IRETURN
+   L3
+    LINENUMBER 139 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dz
+    INVOKEVIRTUAL dz.e ()S
+   L4
+    IRETURN
+   L2
+    LINENUMBER 140 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 141 L5
+    ICONST_0
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public f(Ljava/lang/String;)I
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 147 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    ICONST_0
+   L1
+    IRETURN
+   L3
+    LINENUMBER 148 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dz
+    INVOKEVIRTUAL dz.d ()I
+   L4
+    IRETURN
+   L2
+    LINENUMBER 149 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 150 L5
+    ICONST_0
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public g(Ljava/lang/String;)J
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 156 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    LCONST_0
+   L1
+    LRETURN
+   L3
+    LINENUMBER 157 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dz
+    INVOKEVIRTUAL dz.c ()J
+   L4
+    LRETURN
+   L2
+    LINENUMBER 158 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 159 L5
+    LCONST_0
+    LRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public h(Ljava/lang/String;)F
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 165 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    FCONST_0
+   L1
+    FRETURN
+   L3
+    LINENUMBER 166 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dz
+    INVOKEVIRTUAL dz.h ()F
+   L4
+    FRETURN
+   L2
+    LINENUMBER 167 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 168 L5
+    FCONST_0
+    FRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public i(Ljava/lang/String;)D
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 174 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    DCONST_0
+   L1
+    DRETURN
+   L3
+    LINENUMBER 175 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dz
+    INVOKEVIRTUAL dz.g ()D
+   L4
+    DRETURN
+   L2
+    LINENUMBER 176 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 177 L5
+    DCONST_0
+    DRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public j(Ljava/lang/String;)Ljava/lang/String;
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 183 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    LDC ""
+   L1
+    ARETURN
+   L3
+    LINENUMBER 184 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dy
+    INVOKEVIRTUAL dy.a_ ()Ljava/lang/String;
+   L4
+    ARETURN
+   L2
+    LINENUMBER 185 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 186 L5
+    LDC ""
+    ARETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public k(Ljava/lang/String;)[B
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 192 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    ICONST_0
+    NEWARRAY T_BYTE
+   L1
+    ARETURN
+   L3
+    LINENUMBER 193 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST df
+    INVOKEVIRTUAL df.c ()[B
+   L4
+    ARETURN
+   L2
+    LINENUMBER 194 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 195 L5
+    NEW s
+    DUP
+    ALOAD 0
+    ALOAD 1
+    BIPUSH 7
+    ALOAD 2
+    INVOKESPECIAL dh.a (Ljava/lang/String;ILjava/lang/ClassCastException;)Lb;
+    INVOKESPECIAL s.<init> (Lb;)V
+    ATHROW
+    MAXSTACK = 6
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public l(Ljava/lang/String;)[I
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 201 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    ICONST_0
+    NEWARRAY T_INT
+   L1
+    ARETURN
+   L3
+    LINENUMBER 202 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dn
+    INVOKEVIRTUAL dn.c ()[I
+   L4
+    ARETURN
+   L2
+    LINENUMBER 203 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 204 L5
+    NEW s
+    DUP
+    ALOAD 0
+    ALOAD 1
+    BIPUSH 11
+    ALOAD 2
+    INVOKESPECIAL dh.a (Ljava/lang/String;ILjava/lang/ClassCastException;)Lb;
+    INVOKESPECIAL s.<init> (Lb;)V
+    ATHROW
+    MAXSTACK = 6
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public m(Ljava/lang/String;)Ldh;
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 210 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.containsKey (Ljava/lang/Object;)Z
+    IFNE L3
+    NEW dh
+    DUP
+    INVOKESPECIAL dh.<init> ()V
+   L1
+    ARETURN
+   L3
+    LINENUMBER 211 L3
+   FRAME FULL [dh java/lang/String] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dh
+   L4
+    ARETURN
+   L2
+    LINENUMBER 212 L2
+   FRAME FULL [dh java/lang/String] [java/lang/ClassCastException]
+    ASTORE 2
+   L5
+    LINENUMBER 213 L5
+    NEW s
+    DUP
+    ALOAD 0
+    ALOAD 1
+    BIPUSH 10
+    ALOAD 2
+    INVOKESPECIAL dh.a (Ljava/lang/String;ILjava/lang/ClassCastException;)Lb;
+    INVOKESPECIAL s.<init> (Lb;)V
+    ATHROW
+    MAXSTACK = 6
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public c(Ljava/lang/String;I)Ldq;
+    TRYCATCHBLOCK L0 L1 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L3 L4 L2 java/lang/ClassCastException
+    TRYCATCHBLOCK L5 L6 L2 java/lang/ClassCastException
+   L0
+    LINENUMBER 219 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKEVIRTUAL dh.b (Ljava/lang/String;)B
+    BIPUSH 9
+    IF_ICMPEQ L3
+    NEW dq
+    DUP
+    INVOKESPECIAL dq.<init> ()V
+   L1
+    ARETURN
+   L3
+    LINENUMBER 220 L3
+   FRAME FULL [dh java/lang/String I] []
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dq
+    ASTORE 3
+   L7
+    LINENUMBER 221 L7
+    ALOAD 3
+    INVOKEVIRTUAL dq.c ()I
+    IFLE L5
+    ALOAD 3
+    INVOKEVIRTUAL dq.d ()I
+    ILOAD 2
+    IF_ICMPEQ L5
+   L8
+    LINENUMBER 222 L8
+    NEW dq
+    DUP
+    INVOKESPECIAL dq.<init> ()V
+   L4
+    ARETURN
+   L5
+    LINENUMBER 224 L5
+   FRAME FULL [dh java/lang/String I dq] []
+    ALOAD 3
+   L6
+    ARETURN
+   L2
+    LINENUMBER 225 L2
+   FRAME FULL [dh java/lang/String I] [java/lang/ClassCastException]
+    ASTORE 3
+   L9
+    LINENUMBER 226 L9
+    NEW s
+    DUP
+    ALOAD 0
+    ALOAD 1
+    BIPUSH 9
+    ALOAD 3
+    INVOKESPECIAL dh.a (Ljava/lang/String;ILjava/lang/ClassCastException;)Lb;
+    INVOKESPECIAL s.<init> (Lb;)V
+    ATHROW
+    MAXSTACK = 6
+    MAXLOCALS = 4
+
+  // access flags 0x1
+  public n(Ljava/lang/String;)Z
+   L0
+    LINENUMBER 231 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKEVIRTUAL dh.d (Ljava/lang/String;)B
+    IFEQ L1
+    ICONST_1
+    GOTO L2
+   L1
+   FRAME FULL [dh java/lang/String] []
+    ICONST_0
+   L2
+   FRAME FULL [dh java/lang/String] [I]
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public o(Ljava/lang/String;)V
+   L0
+    LINENUMBER 235 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.remove (Ljava/lang/Object;)Ljava/lang/Object;
+    POP
+   L1
+    LINENUMBER 236 L1
+    RETURN
+    MAXSTACK = 2
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public toString()Ljava/lang/String;
+   L0
+    LINENUMBER 240 L0
+    LDC "{"
+    ASTORE 1
+   L1
+    LINENUMBER 241 L1
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.keySet ()Ljava/util/Set;
+    INVOKEINTERFACE java/util/Set.iterator ()Ljava/util/Iterator;
+    ASTORE 2
+   L2
+   FRAME FULL [dh java/lang/String java/util/Iterator] []
+    ALOAD 2
+    INVOKEINTERFACE java/util/Iterator.hasNext ()Z
+    IFEQ L3
+    ALOAD 2
+    INVOKEINTERFACE java/util/Iterator.next ()Ljava/lang/Object;
+    CHECKCAST java/lang/String
+    ASTORE 3
+   L4
+    LINENUMBER 242 L4
+    NEW java/lang/StringBuilder
+    DUP
+    INVOKESPECIAL java/lang/StringBuilder.<init> ()V
+    ALOAD 1
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    ALOAD 3
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    BIPUSH 58
+    INVOKEVIRTUAL java/lang/StringBuilder.append (C)Ljava/lang/StringBuilder;
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 3
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/Object;)Ljava/lang/StringBuilder;
+    BIPUSH 44
+    INVOKEVIRTUAL java/lang/StringBuilder.append (C)Ljava/lang/StringBuilder;
+    INVOKEVIRTUAL java/lang/StringBuilder.toString ()Ljava/lang/String;
+    ASTORE 1
+   L5
+    LINENUMBER 243 L5
+    GOTO L2
+   L3
+    LINENUMBER 244 L3
+   FRAME FULL [dh java/lang/String java/util/Iterator] []
+    NEW java/lang/StringBuilder
+    DUP
+    INVOKESPECIAL java/lang/StringBuilder.<init> ()V
+    ALOAD 1
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    INVOKESTATIC codechicken/nei/NEIServerUtils.fixTrailingCommaList (Ljava/lang/StringBuilder;)Ljava/lang/StringBuilder;
+    LDC "}"
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    INVOKEVIRTUAL java/lang/StringBuilder.toString ()Ljava/lang/String;
+    ARETURN
+    MAXSTACK = 3
+    MAXLOCALS = 4
+
+  // access flags 0x1
+  public d()Z
+   L0
+    LINENUMBER 261 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.isEmpty ()Z
+    IRETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x2
+  private a(Ljava/lang/String;ILjava/lang/ClassCastException;)Lb;
+   L0
+    LINENUMBER 265 L0
+    ALOAD 3
+    LDC "Reading NBT data"
+    INVOKESTATIC b.a (Ljava/lang/Throwable;Ljava/lang/String;)Lb;
+    ASTORE 4
+   L1
+    LINENUMBER 266 L1
+    ALOAD 4
+    LDC "Corrupt NBT tag"
+    ICONST_1
+    INVOKEVIRTUAL b.a (Ljava/lang/String;I)Lk;
+    ASTORE 5
+   L2
+    LINENUMBER 268 L2
+    ALOAD 5
+    LDC "Tag type found"
+    NEW di
+    DUP
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL di.<init> (Ldh;Ljava/lang/String;)V
+    INVOKEVIRTUAL k.a (Ljava/lang/String;Ljava/util/concurrent/Callable;)V
+   L3
+    LINENUMBER 274 L3
+    ALOAD 5
+    LDC "Tag type expected"
+    NEW dj
+    DUP
+    ALOAD 0
+    ILOAD 2
+    INVOKESPECIAL dj.<init> (Ldh;I)V
+    INVOKEVIRTUAL k.a (Ljava/lang/String;Ljava/util/concurrent/Callable;)V
+   L4
+    LINENUMBER 280 L4
+    ALOAD 5
+    LDC "Tag name"
+    ALOAD 1
+    INVOKEVIRTUAL k.a (Ljava/lang/String;Ljava/lang/Object;)V
+   L5
+    LINENUMBER 282 L5
+    ALOAD 4
+    ARETURN
+    MAXSTACK = 6
+    MAXLOCALS = 6
+
+  // access flags 0x1
+  public b()Ldy;
+   L0
+    LINENUMBER 287 L0
+    NEW dh
+    DUP
+    INVOKESPECIAL dh.<init> ()V
+    ASTORE 1
+   L1
+    LINENUMBER 288 L1
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.keySet ()Ljava/util/Set;
+    INVOKEINTERFACE java/util/Set.iterator ()Ljava/util/Iterator;
+    ASTORE 2
+   L2
+   FRAME FULL [dh dh java/util/Iterator] []
+    ALOAD 2
+    INVOKEINTERFACE java/util/Iterator.hasNext ()Z
+    IFEQ L3
+    ALOAD 2
+    INVOKEINTERFACE java/util/Iterator.next ()Ljava/lang/Object;
+    CHECKCAST java/lang/String
+    ASTORE 3
+   L4
+    LINENUMBER 289 L4
+    ALOAD 1
+    ALOAD 3
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ALOAD 3
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST dy
+    INVOKEVIRTUAL dy.b ()Ldy;
+    INVOKEVIRTUAL dh.a (Ljava/lang/String;Ldy;)V
+   L5
+    LINENUMBER 290 L5
+    GOTO L2
+   L3
+    LINENUMBER 291 L3
+   FRAME FULL [dh dh java/util/Iterator] []
+    ALOAD 1
+    ARETURN
+    MAXSTACK = 4
+    MAXLOCALS = 4
+
+  // access flags 0x1
+  public equals(Ljava/lang/Object;)Z
+   L0
+    LINENUMBER 296 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL dy.equals (Ljava/lang/Object;)Z
+    IFEQ L1
+   L2
+    LINENUMBER 297 L2
+    ALOAD 1
+    CHECKCAST dh
+    ASTORE 2
+   L3
+    LINENUMBER 298 L3
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.entrySet ()Ljava/util/Set;
+    ALOAD 2
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.entrySet ()Ljava/util/Set;
+    INVOKEINTERFACE java/util/Set.equals (Ljava/lang/Object;)Z
+    IRETURN
+   L1
+    LINENUMBER 300 L1
+   FRAME FULL [dh java/lang/Object] []
+    ICONST_0
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public hashCode()I
+   L0
+    LINENUMBER 305 L0
+    ALOAD 0
+    INVOKESPECIAL dy.hashCode ()I
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.hashCode ()I
+    IXOR
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0xA
+  private static a(Ljava/lang/String;Ldy;Ljava/io/DataOutput;)V
+   L0
+    LINENUMBER 309 L0
+    ALOAD 2
+    ALOAD 1
+    INVOKEVIRTUAL dy.a ()B
+    INVOKEINTERFACE java/io/DataOutput.writeByte (I)V
+   L1
+    LINENUMBER 310 L1
+    ALOAD 1
+    INVOKEVIRTUAL dy.a ()B
+    IFNE L2
+    RETURN
+   L2
+    LINENUMBER 312 L2
+   FRAME FULL [java/lang/String dy java/io/DataOutput] []
+    ALOAD 2
+    ALOAD 0
+    INVOKEINTERFACE java/io/DataOutput.writeUTF (Ljava/lang/String;)V
+   L3
+    LINENUMBER 314 L3
+    ALOAD 1
+    ALOAD 2
+    INVOKEVIRTUAL dy.a (Ljava/io/DataOutput;)V
+   L4
+    LINENUMBER 315 L4
+    RETURN
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0xA
+  private static a(Ljava/io/DataInput;Lds;)B
+   L0
+    LINENUMBER 318 L0
+    ALOAD 0
+    INVOKEINTERFACE java/io/DataInput.readByte ()B
+    IRETURN
+    MAXSTACK = 1
+    MAXLOCALS = 2
+
+  // access flags 0xA
+  private static b(Ljava/io/DataInput;Lds;)Ljava/lang/String;
+   L0
+    LINENUMBER 322 L0
+    ALOAD 0
+    INVOKEINTERFACE java/io/DataInput.readUTF ()Ljava/lang/String;
+    ARETURN
+    MAXSTACK = 1
+    MAXLOCALS = 2
+
+  // access flags 0x8
+  static a(BLjava/lang/String;Ljava/io/DataInput;ILds;)Ldy;
+    TRYCATCHBLOCK L0 L1 L2 java/io/IOException
+   L3
+    LINENUMBER 326 L3
+    ILOAD 0
+    INVOKESTATIC dy.a (B)Ldy;
+    ASTORE 5
+   L0
+    LINENUMBER 329 L0
+    ALOAD 5
+    ALOAD 2
+    ILOAD 3
+    ALOAD 4
+    INVOKEVIRTUAL dy.a (Ljava/io/DataInput;ILds;)V
+   L1
+    LINENUMBER 336 L1
+    GOTO L4
+   L2
+    LINENUMBER 330 L2
+   FRAME FULL [I java/lang/String java/io/DataInput I ds dy] [java/io/IOException]
+    ASTORE 6
+   L5
+    LINENUMBER 331 L5
+    ALOAD 6
+    LDC "Loading NBT data"
+    INVOKESTATIC b.a (Ljava/lang/Throwable;Ljava/lang/String;)Lb;
+    ASTORE 7
+   L6
+    LINENUMBER 332 L6
+    ALOAD 7
+    LDC "NBT Tag"
+    INVOKEVIRTUAL b.a (Ljava/lang/String;)Lk;
+    ASTORE 8
+   L7
+    LINENUMBER 333 L7
+    ALOAD 8
+    LDC "Tag name"
+    ALOAD 1
+    INVOKEVIRTUAL k.a (Ljava/lang/String;Ljava/lang/Object;)V
+   L8
+    LINENUMBER 334 L8
+    ALOAD 8
+    LDC "Tag type"
+    ILOAD 0
+    INVOKESTATIC java/lang/Byte.valueOf (B)Ljava/lang/Byte;
+    INVOKEVIRTUAL k.a (Ljava/lang/String;Ljava/lang/Object;)V
+   L9
+    LINENUMBER 335 L9
+    NEW s
+    DUP
+    ALOAD 7
+    INVOKESPECIAL s.<init> (Lb;)V
+    ATHROW
+   L4
+    LINENUMBER 338 L4
+   FRAME FULL [I java/lang/String java/io/DataInput I ds dy] []
+    ALOAD 5
+    ARETURN
+    MAXSTACK = 4
+    MAXLOCALS = 9
+
+  // access flags 0x1008
+  static synthetic a(Ldh;)Ljava/util/Map;
+   L0
+    LINENUMBER 13 L0
+    ALOAD 0
+    GETFIELD dh.c : Ljava/util/Map;
+    ARETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x8
+  static <clinit>()V
+   L0
+    LINENUMBER 14 L0
+    INVOKESTATIC org/apache/logging/log4j/LogManager.getLogger ()Lorg/apache/logging/log4j/Logger;
+    PUTSTATIC dh.b : Lorg/apache/logging/log4j/Logger;
+    RETURN
+    MAXSTACK = 1
+    MAXLOCALS = 0
+}
