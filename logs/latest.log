@@ -1,4 +1,2 @@
-[15:49:04] [main/INFO]: Setting user: QubicRage
-[15:49:06] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:49:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Climate Control, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:Dynamic Liquid Tanks 2.1, FMLFileResourcePack:GregTech, FMLFileResourcePack:HoloInventory, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NotEnoughKEys, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Simple Fluid Tanks, FMLFileResourcePack:Waila, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip, Unity-Minecraft-1.0.0.zip, pgtat_v1_23.zip, Zederrian Technology_1.0.1.zip, Learn Gregtech Companion.zip
-[15:49:16] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[15:53:54] [main/INFO]: Setting user: QubicRage
+[15:53:56] [Client thread/INFO]: LWJGL Version: 2.9.1
