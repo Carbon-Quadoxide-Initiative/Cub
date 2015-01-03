@@ -23,8 +23,8 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16551,
-            "hoverTextColor" : 16777215,
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 304638,
             "shadow" : false
         },
 
@@ -37,8 +37,8 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16551,
-            "hoverTextColor" : 16777215,
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 304638,
             "shadow" : false
         },
 
@@ -51,8 +51,8 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16551,
-            "hoverTextColor" : 16777215,
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 304638,
             "shadow" : false
         },
 
@@ -65,8 +65,8 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16551,
-            "hoverTextColor" : 16777215,
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 304638,
             "shadow" : false
         },
 
@@ -79,8 +79,8 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16551,
-            "hoverTextColor" : 16777215,
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 304638,
             "shadow" : false
         },
 
