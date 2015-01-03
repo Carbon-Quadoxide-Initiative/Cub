@@ -261,3 +261,55 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 [16:16:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
 [16:16:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
 [16:16:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:51:24] [Client thread/INFO]: Warning: Clientside chunk ticking took 122 ms
+[16:57:25] [Server thread/INFO]: [QubicRage: Set the time to 1000]
+[16:57:25] [Client thread/INFO]: [CHAT] Set the time to 1000
+[16:58:42] [Server thread/INFO]: Saving and pausing game...
+[16:58:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:58:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:58:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:00:37] [Server thread/INFO]: Saving and pausing game...
+[17:00:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:00:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:00:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:09:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.fuse
+[17:10:00] [Server thread/INFO]: Saving and pausing game...
+[17:10:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:10:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:10:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:13:35] [Client thread/INFO]: [CHAT] Rain turned off
+[17:13:46] [Server thread/INFO]: Saving and pausing game...
+[17:13:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:13:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:13:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:18:48] [Server thread/INFO]: Saving and pausing game...
+[17:18:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:18:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:18:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:19:06] [Server thread/INFO]: [QubicRage: Given [Block of Diamond] * 1 to QubicRage]
+[17:19:06] [Client thread/INFO]: [CHAT] Given [Block of Diamond] * 1 to QubicRage
+[17:19:26] [Server thread/INFO]: [QubicRage: Given [Nether Star] * 1 to QubicRage]
+[17:19:27] [Client thread/INFO]: [CHAT] Given [Nether Star] * 1 to QubicRage
+[17:19:38] [Server thread/INFO]: [QubicRage: Given [Industrial TNT] * 1 to QubicRage]
+[17:19:38] [Client thread/INFO]: [CHAT] Given [Industrial TNT] * 1 to QubicRage
+[17:19:45] [Server thread/INFO]: [QubicRage: Given [Nuke] * 1 to QubicRage]
+[17:19:45] [Client thread/INFO]: [CHAT] Given [Nuke] * 1 to QubicRage
+[17:19:56] [Server thread/INFO]: Saving and pausing game...
+[17:19:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:19:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:19:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:22:03] [Server thread/INFO]: Saving and pausing game...
+[17:22:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:22:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:22:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:22:40] [Server thread/INFO]: Saving and pausing game...
+[17:22:40] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:22:40] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:22:40] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:22:41] [Server thread/INFO]: Stopping server
+[17:22:41] [Server thread/INFO]: Saving players
+[17:22:41] [Server thread/INFO]: Saving worlds
+[17:22:41] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:22:41] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:22:41] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:22:48] [Client thread/INFO]: Stopping!
