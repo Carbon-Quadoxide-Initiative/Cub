@@ -1,102 +1,114 @@
 {
     "images":
     {
-        "transparent":
+        "title":
         {
-            "image" : "textures:menu/blacktransparent.png",
-            "posX" : -50,
-            "posY" : -70,
-            "width" : 100,
-            "height" : 140,
-            "alignment" : "center"
-        },
-
-        "minecraft":
-        {
-            "image" : "textures:menu/cub.png",
-            "posX" : -53,
-            "posY" : -70,
-            "width" : 108,
-            "height" : 16,
-            "alignment" : "center"
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -250,
+            "posY" : 20,
+            "width" : 500,
+            "height" : 100,
+            "alignment" : "top_center"
         }
     },
-
+    
     "buttons":
     {
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -50,
-            "posY" : -50,
-            "width" : 100,
+            "posX" : -218,
+            "posY" : 0,
+            "width" : 80,
             "height" : 20,
             "alignment" : "center",
-            "texture" : "textures:menu/button.png",
+            "texture" : "custommainmenu:textures/menu/button.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
             "shadow" : false
         },
 
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : -50,
-            "posY" : -30,
-            "width" : 100,
+            "posX" : -139,
+            "posY" : 0,
+            "width" : 80,
             "height" : 20,
             "alignment" : "center",
-            "texture" : "textures:menu/button.png",
+            "texture" : "custommainmenu:textures/menu/button.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
             "shadow" : false
         },
 
         "mods":
         {
-            "text" : "fml.menu.mods",
-            "posX" : -50,
-            "posY" : -10,
-            "width" : 100,
+            "text" : "Mod List",
+            "posX" : 19,
+            "posY" : 0,
+            "width" : 80,
             "height" : 20,
             "alignment" : "center",
-            "texture" : "textures:menu/button.png",
+            "texture" : "custommainmenu:textures/menu/button.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
             "shadow" : false
         },
 
         "options":
         {
-            "text" : "menu.options",
-            "posX" : -50,
-            "posY" : 10,
-            "width" : 100,
+            "text" : "Options",
+            "posX" : -60,
+            "posY" : 0,
+            "width" : 80,
             "height" : 20,
             "alignment" : "center",
-            "texture" : "textures:menu/button.png",
+            "texture" : "custommainmenu:textures/menu/button.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
             "shadow" : false
         },
 
         "language":
         {
             "text" : "Language",
-            "posX" : -50,
-            "posY" : 30,
-            "width" : 100,
+            "posX" : 98,
+            "posY" : 0,
+            "width" : 80,
             "height" : 20,
             "alignment" : "center",
-            "texture" : "textures:menu/button.png",
+            "texture" : "custommainmenu:textures/menu/button.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
             "shadow" : false
         },
 
         "quit":
         {
-            "text" : "menu.quit",
-            "posX" : -50,
-            "posY" : 50,
-            "width" : 100,
+            "text" : "Kill",
+            "posX" : 177,
+            "posY" : 0,
+            "width" : 39,
             "height" : 20,
             "alignment" : "center",
-            "texture" : "textures:menu/button.png",
+            "texture" : "custommainmenu:textures/menu/button.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
             "shadow" : false
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 103,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left"
         }
     },
-
+    
     "texts":
     {
         "mojang":
@@ -106,15 +118,20 @@
             "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_left"
         }
     },
-
+    
     "other":
     {
-        "background":
-        {
-            "image" : "textures:menu/hill.png",
-            "mode" : "fill"
-        }
+
     }
 }

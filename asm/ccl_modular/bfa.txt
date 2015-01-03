@@ -1,0 +1,68 @@
+// class version 50.0 (50)
+// access flags 0x20
+class bfa extends bfd  {
+
+  // compiled from: SourceFile
+
+  // access flags 0x1010
+  final synthetic Lbez; o
+
+  // access flags 0x1
+  public <init>(Lbez;III)V
+   L0
+    LINENUMBER 266 L0
+    ALOAD 0
+    ALOAD 1
+    PUTFIELD bfa.o : Lbez;
+   L1
+    LINENUMBER 267 L1
+    ALOAD 0
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKESTATIC bez.a ()Lbqx;
+    BIPUSH 112
+    SIPUSH 220
+    INVOKESPECIAL bfd.<init> (IIILbqx;II)V
+   L2
+    LINENUMBER 268 L2
+    RETURN
+    MAXSTACK = 7
+    MAXLOCALS = 5
+
+  // access flags 0x1
+  public b(II)V
+    ALOAD 0
+    GETFIELD bfa.o : Lbez;
+    DUP
+    GETFIELD bex.manager : Lcodechicken/nei/guihook/GuiContainerManager;
+    SWAP
+    DUP
+    GETFIELD bex.i : I
+    ILOAD 1
+    IADD
+    SWAP
+    GETFIELD bex.r : I
+    ILOAD 2
+    IADD
+    INVOKEVIRTUAL codechicken/nei/guihook/GuiContainerManager.objectUnderMouse (II)Z
+    IFEQ L0
+    RETURN
+   L0
+    LINENUMBER 272 L0
+   FRAME FULL [bfa I I] []
+    ALOAD 0
+    GETFIELD bfa.o : Lbez;
+    LDC "gui.cancel"
+    ICONST_0
+    ANEWARRAY java/lang/Object
+    INVOKESTATIC brp.a (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+    ILOAD 1
+    ILOAD 2
+    INVOKESTATIC bez.c (Lbez;Ljava/lang/String;II)V
+   L1
+    LINENUMBER 273 L1
+    RETURN
+    MAXSTACK = 4
+    MAXLOCALS = 3
+}

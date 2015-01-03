@@ -1,0 +1,133 @@
+// class version 50.0 (50)
+// access flags 0x20
+class bfc extends bfd  {
+
+  // compiled from: SourceFile
+
+  // access flags 0x12
+  private final I p
+
+  // access flags 0x12
+  private final I q
+
+  // access flags 0x1010
+  final synthetic Lbez; o
+
+  // access flags 0x1
+  public <init>(Lbez;IIIII)V
+   L0
+    LINENUMBER 231 L0
+    ALOAD 0
+    ALOAD 1
+    PUTFIELD bfc.o : Lbez;
+   L1
+    LINENUMBER 233 L1
+    ALOAD 0
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    GETSTATIC bex.a : Lbqx;
+    ICONST_0
+    GETSTATIC rv.a : [Lrv;
+    ILOAD 5
+    AALOAD
+    INVOKEVIRTUAL rv.e ()I
+    BIPUSH 8
+    IREM
+    BIPUSH 18
+    IMUL
+    IADD
+    SIPUSH 198
+    GETSTATIC rv.a : [Lrv;
+    ILOAD 5
+    AALOAD
+    INVOKEVIRTUAL rv.e ()I
+    BIPUSH 8
+    IDIV
+    BIPUSH 18
+    IMUL
+    IADD
+    INVOKESPECIAL bfd.<init> (IIILbqx;II)V
+   L2
+    LINENUMBER 234 L2
+    ALOAD 0
+    ILOAD 5
+    PUTFIELD bfc.p : I
+   L3
+    LINENUMBER 235 L3
+    ALOAD 0
+    ILOAD 6
+    PUTFIELD bfc.q : I
+   L4
+    LINENUMBER 236 L4
+    RETURN
+    MAXSTACK = 9
+    MAXLOCALS = 7
+
+  // access flags 0x1
+  public b(II)V
+    ALOAD 0
+    GETFIELD bfc.o : Lbez;
+    DUP
+    GETFIELD bex.manager : Lcodechicken/nei/guihook/GuiContainerManager;
+    SWAP
+    DUP
+    GETFIELD bex.i : I
+    ILOAD 1
+    IADD
+    SWAP
+    GETFIELD bex.r : I
+    ILOAD 2
+    IADD
+    INVOKEVIRTUAL codechicken/nei/guihook/GuiContainerManager.objectUnderMouse (II)Z
+    IFEQ L0
+    RETURN
+   L0
+    LINENUMBER 241 L0
+   FRAME FULL [bfc I I] []
+    GETSTATIC rv.a : [Lrv;
+    ALOAD 0
+    GETFIELD bfc.p : I
+    AALOAD
+    INVOKEVIRTUAL rv.a ()Ljava/lang/String;
+    ICONST_0
+    ANEWARRAY java/lang/Object
+    INVOKESTATIC brp.a (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+    ASTORE 3
+   L1
+    LINENUMBER 244 L1
+    ALOAD 0
+    GETFIELD bfc.q : I
+    ICONST_3
+    IF_ICMPLT L2
+    ALOAD 0
+    GETFIELD bfc.p : I
+    GETSTATIC rv.l : Lrv;
+    GETFIELD rv.H : I
+    IF_ICMPEQ L2
+   L3
+    LINENUMBER 245 L3
+    NEW java/lang/StringBuilder
+    DUP
+    INVOKESPECIAL java/lang/StringBuilder.<init> ()V
+    ALOAD 3
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    LDC " II"
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    INVOKEVIRTUAL java/lang/StringBuilder.toString ()Ljava/lang/String;
+    ASTORE 3
+   L2
+    LINENUMBER 248 L2
+   FRAME FULL [bfc I I java/lang/String] []
+    ALOAD 0
+    GETFIELD bfc.o : Lbez;
+    ALOAD 3
+    ILOAD 1
+    ILOAD 2
+    INVOKESTATIC bez.a (Lbez;Ljava/lang/String;II)V
+   L4
+    LINENUMBER 249 L4
+    RETURN
+    MAXSTACK = 4
+    MAXLOCALS = 4
+}
