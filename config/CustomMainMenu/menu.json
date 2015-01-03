@@ -23,7 +23,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 6579300,
+            "normalTextColor" : 16551,
             "hoverTextColor" : 16777215,
             "shadow" : false
         },
@@ -37,7 +37,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 6579300,
+            "normalTextColor" : 16551,
             "hoverTextColor" : 16777215,
             "shadow" : false
         },
@@ -51,7 +51,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 6579300,
+            "normalTextColor" : 16551,
             "hoverTextColor" : 16777215,
             "shadow" : false
         },
@@ -65,7 +65,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 6579300,
+            "normalTextColor" : 16551,
             "hoverTextColor" : 16777215,
             "shadow" : false
         },
@@ -79,7 +79,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 6579300,
+            "normalTextColor" : 16551,
             "hoverTextColor" : 16777215,
             "shadow" : false
         },
@@ -93,8 +93,8 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 6579300,
-            "hoverTextColor" : 16777215,
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 304638,
             "shadow" : false
         },
         
@@ -102,7 +102,7 @@
         {
             "text" : "",
             "posX" : 103,
-            "posY" : 10,
+            "posY" : -100,
             "width" : 20,
             "height" : 20,
             "alignment" : "bottom_left"
@@ -124,7 +124,7 @@
         {
             "text" : "",
             "posX" : 2,
-            "posY" : -50,
+            "posY" : -20,
             "color" : -1,
             "alignment" : "bottom_left"
         }

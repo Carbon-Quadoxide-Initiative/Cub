@@ -2,9 +2,9 @@ GT_Mod: Preload-Phase started!
 GT_Mod: Getting required Items of other Mods.
 GT_Mod: Setting Configs
 GT_Mod: Downloading Cape List.
+GT_Mod: Downloading News.
 GT_Mod: Saving Main Config
 GT_Mod: Generating Lang-File
-GT_Mod: Downloading News.
 GT_Mod: Removing all original Scrapbox Drops.
 GT_Mod: Adding Scrap with a Weight of 200.0F to the Scrapbox Drops.
 GT_Mod: Register Ore processing.
@@ -50,3 +50,29 @@ GT_Mod: (re-)adding Scrapbox Drops.
 GT_Mod: Register Crops to IC2.
 GT_Mod: Created a List of Tool Recipes containing 60 Recipes for recycling.
 GT_Mod: Activating OreDictionary Handler, this can take some time, as it scans the whole OreDictionary
+GT_Mod: 8 Recipes were left unused.
+GT_Mod: Adding nerfed Vanilla Recipes.
+GT_Mod: Adding Vanilla Convenience Recipes.
+GT_Mod: Adding Tool Recipes.
+GT_Mod: Adding Wool and Color releated Recipes.
+GT_Mod: Putting a Potato on a Stick.
+GT_Mod: Adding Mixed Metal Ingot Recipes.
+GT_Mod: Adding Rolling Machine Recipes.
+GT_Mod: Replacing Railcraft Recipes with slightly more OreDicted Variants
+GT_Mod: Beginning to add regular Crafting Recipes.
+GT_Mod: Applying harder Recipes for several Blocks.
+GT_Mod: Applying Recipes for Tools
+GT_Mod: Removing Q-Armor Recipes if configured.
+GT_Mod: Nerfing Vanilla Tool Durability
+GT_Mod: Adding buffered Recipes.
+GT_Mod: Saving Lang File.
+GT_Mod: PostLoad-Phase finished!
+GT_Mod: Adding Fake Recipes for NEI
+GT_Mod: Loading finished, deallocating temporary Init Variables.
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase

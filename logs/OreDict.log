@@ -10113,3 +10113,4 @@ JABBA --Late--> obsidian uses a Prefix as full OreDict Name, and is therefor inv
 JABBA --Late--> whiteStone is getting ignored via hardcode.
 JABBA --Late--> transdimBlock is getting ignored via hardcode.
 GT_Mod: Beginning PostLoad-Phase.
+GT_Mod: PostLoad-Phase finished!
