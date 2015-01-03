@@ -6912,6 +6912,7 @@ languagefile {
     S:gt.coil01tooltip=Base Heating Capacity = 1800 Kelvin
     S:gt.coil02tooltip=Base Heating Capacity = 2700 Kelvin
     S:gt.coil03tooltip=Base Heating Capacity = 3600 Kelvin
+    S:gt.integrated_circuit.configuration=Configuration: 
     S:gt.integrated_circuit.name=Integrated Circuit
     S:gt.metaitem.01.10.name=Tiny Pile of Carbon Dust
     S:gt.metaitem.01.10.tooltip=C

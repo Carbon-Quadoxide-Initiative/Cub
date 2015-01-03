@@ -90,7 +90,6 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
-key_HoloInventory:0
 key_invtweaks.key.sort:19
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
