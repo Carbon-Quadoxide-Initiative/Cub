@@ -7662,3 +7662,246 @@ java.lang.Throwable
 [05:42:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
 [05:43:12] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
 [05:43:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[05:54:06] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.inventory.GuiInventory
+[05:54:06] [Client thread/INFO] [inventorytweaks/]: net.minecraft.inventory.ContainerPlayer
+[05:54:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[05:54:18] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.inventory.GuiInventory
+[05:54:18] [Client thread/INFO] [inventorytweaks/]: net.minecraft.inventory.ContainerPlayer
+[05:54:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[05:54:27] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[05:54:31] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:164]: GT_Mod: Starting Block Icon Load Phase
+[05:54:31] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:173]: GT_Mod: Finished Block Icon Load Phase
+[05:54:35] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:82]: GT_Mod: Starting Item Icon Load Phase
+[05:54:35] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:92]: GT_Mod: Finished Item Icon Load Phase
+[05:54:38] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:54:38] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[05:54:38] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[05:54:38] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:54:38] [Client thread/INFO] [IC2/]: IC2 audio starting.
+[05:54:38] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:54:38] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[05:54:39] [Thread-26/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[05:54:39] [Thread-26/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[05:54:39] [Thread-26/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[05:54:39] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:39] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:39] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:39] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:39] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:39] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:39] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:39] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Not Enough Items/]: Mod Not Enough Items is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Better Title Screen/]: Mod Better Title Screen is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Custom Main Menu/]: Mod Custom Main Menu is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [HoloInventory/]: Mod HoloInventory is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Hardcore Questing Mode/]: Mod Hardcore Questing Mode is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Iron Chest/]: Mod Iron Chest is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [JABBA/]: Mod JABBA is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [MineTweaker 3/]: Mod MineTweaker 3 is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [NotEnoughKEys/]: Mod NotEnoughKEys is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [MapWriter/]: Mod MapWriter is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Opis/]: Mod Opis is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Resource Loader/]: Mod Resource Loader is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Client thread/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[05:54:39] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:54:39] [IC2 audio init thread/INFO] [IC2/]: IC2 audio ready.
+[05:54:42] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[05:54:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[05:54:47] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:164]: GT_Mod: Starting Block Icon Load Phase
+[05:54:47] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:173]: GT_Mod: Finished Block Icon Load Phase
+[05:54:51] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:82]: GT_Mod: Starting Item Icon Load Phase
+[05:54:51] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:92]: GT_Mod: Finished Item Icon Load Phase
+[05:54:54] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:54:54] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[05:54:54] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[05:54:54] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:54:54] [Client thread/INFO] [IC2/]: IC2 audio starting.
+[05:54:54] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:54:54] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[05:54:54] [Thread-28/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[05:54:54] [Thread-28/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[05:54:54] [Thread-28/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[05:54:55] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:55] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:55] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:55] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:55] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:55] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:55] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:54:55] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Not Enough Items/]: Mod Not Enough Items is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Better Title Screen/]: Mod Better Title Screen is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Custom Main Menu/]: Mod Custom Main Menu is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [HoloInventory/]: Mod HoloInventory is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Hardcore Questing Mode/]: Mod Hardcore Questing Mode is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Iron Chest/]: Mod Iron Chest is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [JABBA/]: Mod JABBA is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [MineTweaker 3/]: Mod MineTweaker 3 is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [NotEnoughKEys/]: Mod NotEnoughKEys is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [MapWriter/]: Mod MapWriter is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Opis/]: Mod Opis is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Resource Loader/]: Mod Resource Loader is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Client thread/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[05:54:55] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:54:55] [IC2 audio init thread/INFO] [IC2/]: IC2 audio ready.
+[05:57:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[05:57:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[05:57:36] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[05:58:41] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:164]: GT_Mod: Starting Block Icon Load Phase
+[05:58:41] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:173]: GT_Mod: Finished Block Icon Load Phase
+[05:58:46] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:82]: GT_Mod: Starting Item Icon Load Phase
+[05:58:46] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:92]: GT_Mod: Finished Item Icon Load Phase
+[05:58:48] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:58:48] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[05:58:48] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[05:58:48] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:58:48] [Client thread/INFO] [IC2/]: IC2 audio starting.
+[05:58:48] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:58:48] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[05:58:49] [Thread-30/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[05:58:49] [Thread-30/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[05:58:49] [Thread-30/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[05:58:49] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:58:49] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:58:49] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:58:49] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:58:49] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:58:49] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:58:49] [Client thread/ERROR] [JABBA/]: caught exception while generating icons: java.lang.Exception: Attempting to replace texture image data with too much data.Attempting to replace texture image data with too much data.
+[05:58:49] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Not Enough Items/]: Mod Not Enough Items is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Better Title Screen/]: Mod Better Title Screen is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Custom Main Menu/]: Mod Custom Main Menu is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [HoloInventory/]: Mod HoloInventory is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Hardcore Questing Mode/]: Mod Hardcore Questing Mode is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Iron Chest/]: Mod Iron Chest is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [JABBA/]: Mod JABBA is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [MineTweaker 3/]: Mod MineTweaker 3 is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [NotEnoughKEys/]: Mod NotEnoughKEys is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [MapWriter/]: Mod MapWriter is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Opis/]: Mod Opis is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Resource Loader/]: Mod Resource Loader is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Client thread/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[05:58:49] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[05:58:49] [IC2 audio init thread/INFO] [IC2/]: IC2 audio ready.
+[05:58:54] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.inventory.GuiInventory
+[05:58:54] [Client thread/INFO] [inventorytweaks/]: net.minecraft.inventory.ContainerPlayer
+[05:59:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:00:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:01:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:01:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:02:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:03:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:04:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:04:16] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[06:04:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:04:17] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[06:04:17] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[06:04:17] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[06:04:17] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[06:04:17] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[06:04:17] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[06:04:17] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStoppingEvent to mod CodeChickenCore
+[06:04:17] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStoppingEvent to mod CodeChickenCore
+[06:04:17] [Server thread/TRACE] [MobiusCore/MobiusCore]: Sending event FMLServerStoppingEvent to mod MobiusCore
+[06:04:17] [Server thread/TRACE] [MobiusCore/MobiusCore]: Sent event FMLServerStoppingEvent to mod MobiusCore
+[06:04:17] [Server thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sending event FMLServerStoppingEvent to mod NotEnoughItems
+[06:04:17] [Server thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sent event FMLServerStoppingEvent to mod NotEnoughItems
+[06:04:17] [Server thread/TRACE] [BetterTitleScreen/BetterTitleScreen]: Sending event FMLServerStoppingEvent to mod BetterTitleScreen
+[06:04:17] [Server thread/TRACE] [BetterTitleScreen/BetterTitleScreen]: Sent event FMLServerStoppingEvent to mod BetterTitleScreen
+[06:04:17] [Server thread/TRACE] [CustomMainMenu/CustomMainMenu]: Sending event FMLServerStoppingEvent to mod CustomMainMenu
+[06:04:17] [Server thread/TRACE] [CustomMainMenu/CustomMainMenu]: Sent event FMLServerStoppingEvent to mod CustomMainMenu
+[06:04:17] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerStoppingEvent to mod IC2
+[06:04:17] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerStoppingEvent to mod IC2
+[06:04:17] [Server thread/TRACE] [HoloInventory/HoloInventory]: Sending event FMLServerStoppingEvent to mod HoloInventory
+[06:04:17] [Server thread/TRACE] [HoloInventory/HoloInventory]: Sent event FMLServerStoppingEvent to mod HoloInventory
+[06:04:17] [Server thread/TRACE] [HardcoreQuesting/HardcoreQuesting]: Sending event FMLServerStoppingEvent to mod HardcoreQuesting
+[06:04:17] [Server thread/TRACE] [HardcoreQuesting/HardcoreQuesting]: Sent event FMLServerStoppingEvent to mod HardcoreQuesting
+[06:04:17] [Server thread/TRACE] [inventorytweaks/inventorytweaks]: Sending event FMLServerStoppingEvent to mod inventorytweaks
+[06:04:17] [Server thread/TRACE] [inventorytweaks/inventorytweaks]: Sent event FMLServerStoppingEvent to mod inventorytweaks
+[06:04:17] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerStoppingEvent to mod IronChest
+[06:04:17] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerStoppingEvent to mod IronChest
+[06:04:17] [Server thread/TRACE] [Waila/Waila]: Sending event FMLServerStoppingEvent to mod Waila
+[06:04:17] [Server thread/TRACE] [Waila/Waila]: Sent event FMLServerStoppingEvent to mod Waila
+[06:04:17] [Server thread/TRACE] [JABBA/JABBA]: Sending event FMLServerStoppingEvent to mod JABBA
+[06:04:17] [Server thread/TRACE] [JABBA/JABBA]: Sent event FMLServerStoppingEvent to mod JABBA
+[06:04:17] [Server thread/TRACE] [Lockdown/Lockdown]: Sending event FMLServerStoppingEvent to mod Lockdown
+[06:04:17] [Server thread/TRACE] [Lockdown/Lockdown]: Sent event FMLServerStoppingEvent to mod Lockdown
+[06:04:17] [Server thread/TRACE] [MineTweaker3/MineTweaker3]: Sending event FMLServerStoppingEvent to mod MineTweaker3
+[06:04:17] [Server thread/TRACE] [MineTweaker3/MineTweaker3]: Sent event FMLServerStoppingEvent to mod MineTweaker3
+[06:04:17] [Server thread/TRACE] [neiintegration/neiintegration]: Sending event FMLServerStoppingEvent to mod neiintegration
+[06:04:17] [Server thread/TRACE] [neiintegration/neiintegration]: Sent event FMLServerStoppingEvent to mod neiintegration
+[06:04:17] [Server thread/TRACE] [notenoughkeys/notenoughkeys]: Sending event FMLServerStoppingEvent to mod notenoughkeys
+[06:04:17] [Server thread/TRACE] [notenoughkeys/notenoughkeys]: Sent event FMLServerStoppingEvent to mod notenoughkeys
+[06:04:17] [Server thread/TRACE] [MapWriter/MapWriter]: Sending event FMLServerStoppingEvent to mod MapWriter
+[06:04:17] [Server thread/TRACE] [MapWriter/MapWriter]: Sent event FMLServerStoppingEvent to mod MapWriter
+[06:04:17] [Server thread/TRACE] [Opis/Opis]: Sending event FMLServerStoppingEvent to mod Opis
+[06:04:17] [Server thread/TRACE] [Opis/Opis]: Sent event FMLServerStoppingEvent to mod Opis
+[06:04:17] [Server thread/TRACE] [ResourceLoader/ResourceLoader]: Sending event FMLServerStoppingEvent to mod ResourceLoader
+[06:04:17] [Server thread/TRACE] [ResourceLoader/ResourceLoader]: Sent event FMLServerStoppingEvent to mod ResourceLoader
+[06:04:17] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerStoppingEvent to mod gregtech
+[06:04:17] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerStoppingEvent to mod gregtech
+[06:04:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[06:04:18] [Server thread/INFO] [FML/]: Unloading dimension 0
+[06:04:18] [Server thread/INFO] [FML/]: Unloading dimension -1
+[06:04:18] [Server thread/INFO] [FML/]: Unloading dimension 1
+[06:04:18] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[06:04:18] [Server thread/INFO] [FML/]: Applying holder lookups
+[06:04:18] [Server thread/INFO] [FML/]: Holder lookups applied
+[06:04:18] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[06:04:18] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[06:04:18] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[06:04:18] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[06:04:18] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[06:04:18] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[06:04:18] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStoppedEvent to mod CodeChickenCore
+[06:04:18] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStoppedEvent to mod CodeChickenCore
+[06:04:18] [Server thread/TRACE] [MobiusCore/MobiusCore]: Sending event FMLServerStoppedEvent to mod MobiusCore
+[06:04:18] [Server thread/TRACE] [MobiusCore/MobiusCore]: Sent event FMLServerStoppedEvent to mod MobiusCore
+[06:04:18] [Server thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sending event FMLServerStoppedEvent to mod NotEnoughItems
+[06:04:18] [Server thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sent event FMLServerStoppedEvent to mod NotEnoughItems
+[06:04:18] [Server thread/TRACE] [BetterTitleScreen/BetterTitleScreen]: Sending event FMLServerStoppedEvent to mod BetterTitleScreen
+[06:04:18] [Server thread/TRACE] [BetterTitleScreen/BetterTitleScreen]: Sent event FMLServerStoppedEvent to mod BetterTitleScreen
+[06:04:18] [Server thread/TRACE] [CustomMainMenu/CustomMainMenu]: Sending event FMLServerStoppedEvent to mod CustomMainMenu
+[06:04:18] [Server thread/TRACE] [CustomMainMenu/CustomMainMenu]: Sent event FMLServerStoppedEvent to mod CustomMainMenu
+[06:04:18] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerStoppedEvent to mod IC2
+[06:04:18] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerStoppedEvent to mod IC2
+[06:04:18] [Server thread/TRACE] [HoloInventory/HoloInventory]: Sending event FMLServerStoppedEvent to mod HoloInventory
+[06:04:19] [Server thread/TRACE] [HoloInventory/HoloInventory]: Sent event FMLServerStoppedEvent to mod HoloInventory
+[06:04:19] [Server thread/TRACE] [HardcoreQuesting/HardcoreQuesting]: Sending event FMLServerStoppedEvent to mod HardcoreQuesting
+[06:04:19] [Server thread/TRACE] [HardcoreQuesting/HardcoreQuesting]: Sent event FMLServerStoppedEvent to mod HardcoreQuesting
+[06:04:19] [Server thread/TRACE] [inventorytweaks/inventorytweaks]: Sending event FMLServerStoppedEvent to mod inventorytweaks
+[06:04:19] [Server thread/TRACE] [inventorytweaks/inventorytweaks]: Sent event FMLServerStoppedEvent to mod inventorytweaks
+[06:04:19] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerStoppedEvent to mod IronChest
+[06:04:19] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerStoppedEvent to mod IronChest
+[06:04:19] [Server thread/TRACE] [Waila/Waila]: Sending event FMLServerStoppedEvent to mod Waila
+[06:04:19] [Server thread/TRACE] [Waila/Waila]: Sent event FMLServerStoppedEvent to mod Waila
+[06:04:19] [Server thread/TRACE] [JABBA/JABBA]: Sending event FMLServerStoppedEvent to mod JABBA
+[06:04:19] [Server thread/TRACE] [JABBA/JABBA]: Sent event FMLServerStoppedEvent to mod JABBA
+[06:04:19] [Server thread/TRACE] [Lockdown/Lockdown]: Sending event FMLServerStoppedEvent to mod Lockdown
+[06:04:19] [Server thread/TRACE] [Lockdown/Lockdown]: Sent event FMLServerStoppedEvent to mod Lockdown
+[06:04:19] [Server thread/TRACE] [MineTweaker3/MineTweaker3]: Sending event FMLServerStoppedEvent to mod MineTweaker3
+[06:04:19] [Server thread/TRACE] [MineTweaker3/MineTweaker3]: Sent event FMLServerStoppedEvent to mod MineTweaker3
+[06:04:19] [Server thread/TRACE] [neiintegration/neiintegration]: Sending event FMLServerStoppedEvent to mod neiintegration
+[06:04:19] [Server thread/TRACE] [neiintegration/neiintegration]: Sent event FMLServerStoppedEvent to mod neiintegration
+[06:04:19] [Server thread/TRACE] [notenoughkeys/notenoughkeys]: Sending event FMLServerStoppedEvent to mod notenoughkeys
+[06:04:19] [Server thread/TRACE] [notenoughkeys/notenoughkeys]: Sent event FMLServerStoppedEvent to mod notenoughkeys
+[06:04:19] [Server thread/TRACE] [MapWriter/MapWriter]: Sending event FMLServerStoppedEvent to mod MapWriter
+[06:04:19] [Server thread/TRACE] [MapWriter/MapWriter]: Sent event FMLServerStoppedEvent to mod MapWriter
+[06:04:19] [Server thread/TRACE] [Opis/Opis]: Sending event FMLServerStoppedEvent to mod Opis
+[06:04:19] [Server thread/TRACE] [Opis/Opis]: Sent event FMLServerStoppedEvent to mod Opis
+[06:04:19] [Server thread/TRACE] [ResourceLoader/ResourceLoader]: Sending event FMLServerStoppedEvent to mod ResourceLoader
+[06:04:19] [Server thread/TRACE] [ResourceLoader/ResourceLoader]: Sent event FMLServerStoppedEvent to mod ResourceLoader
+[06:04:19] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerStoppedEvent to mod gregtech
+[06:04:19] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerStoppedEvent to mod gregtech
+[06:04:19] [Client thread/INFO] [MapWriter/]: Mw.close: closing...
+[06:04:19] [Client thread/INFO] [MapWriter/]: waiting for 257 tasks to finish...
+[06:04:20] [Client thread/INFO] [MapWriter/]: done
+[06:04:22] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[06:04:22] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[06:04:22] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[06:04:22] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 

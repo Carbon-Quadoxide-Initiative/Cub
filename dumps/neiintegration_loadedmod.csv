@@ -1,0 +1,24 @@
+ID,Name,Version,Custom Container,Disableable,Dependencies
+mcp,Minecraft Coder Pack,9.05,true,YES,[]
+FML,Forge Mod Loader,7.10.85.1272,true,NEVER,[]
+Forge,Minecraft Forge,10.13.2.1272,true,NEVER,[]
+CodeChickenCore,CodeChicken Core,1.0.4.29,true,NEVER,[]
+MobiusCore,MobiusCore,1.2.3,true,NEVER,[]
+NotEnoughItems,Not Enough Items,1.0.3.74,true,NEVER,"[CodeChickenCore@[1.0.4,)]"
+BetterTitleScreen,Better Title Screen,1.7.10-1.1,false,RESTART,"[Forge@[10.12.2.1147,)]"
+CustomMainMenu,Custom Main Menu,0.9,false,RESTART,[]
+IC2,IndustrialCraft 2,2.2.658-experimental,false,DEPENDENCIES,"[Forge@[10.13.0.1200,)]"
+gregtech,GregTech,MC1710,false,RESTART,"[IC2, Forestry, PFAAGeologica, Thaumcraft, Railcraft, appliedenergistics2, ThermalExpansion, TwilightForest, harvestcraft, magicalcrops, BuildCraft|Transport, BuildCraft|Silicon, BuildCraft|Factory, BuildCraft|Energy, BuildCraft|Core, BuildCraft|Builders, GalacticraftCore, GalacticraftMars, GalacticraftPlanets, ThermalExpansion|Transport, ThermalExpansion|Energy, ThermalExpansion|Factory, RedPowerCore, RedPowerBase, RedPowerMachine, RedPowerCompat, RedPowerWiring, RedPowerLogic, RedPowerLighting, RedPowerWorld, RedPowerControl]"
+HoloInventory,HoloInventory,1.8.3.86,false,RESTART,[]
+HardcoreQuesting,Hardcore Questing Mode,The Journey (4.2.1),false,RESTART,[]
+inventorytweaks,Inventory Tweaks,1.59-dev-152-cf6e263,false,RESTART,"[FML@[7.2.0,), Forge@[10.12.1,)]"
+IronChest,Iron Chest,6.0.62.742,false,RESTART,"[Forge@[10.10,), FML@[7.2,)]"
+Waila,Waila,1.5.7,false,RESTART,[NotEnoughItems]
+JABBA,JABBA,1.2.0a,false,RESTART,"[Waila, NotEnoughItems]"
+Lockdown,Lockdown,2.0.0,false,RESTART,[]
+MineTweaker3,MineTweaker 3,3.0.9B,false,RESTART,[]
+neiintegration,NEI Integration,1.0.3,false,RESTART,[]
+notenoughkeys,NotEnoughKEys,@MOD_VERSION@,false,RESTART,[]
+MapWriter,MapWriter,2.1.1,false,RESTART,[]
+Opis,Opis,1.2.3,false,RESTART,"[MobiusCore@[1.2.3,1.2.3]]"
+ResourceLoader,Resource Loader,1.0,false,RESTART,[]
