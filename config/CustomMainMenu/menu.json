@@ -23,7 +23,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16777215,
+            "normalTextColor" : 1,
             "hoverTextColor" : 304638,
             "shadow" : false
         },
@@ -37,7 +37,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16777215,
+            "normalTextColor" : 1,
             "hoverTextColor" : 304638,
             "shadow" : false
         },
@@ -51,7 +51,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16777215,
+            "normalTextColor" : 1,
             "hoverTextColor" : 304638,
             "shadow" : false
         },
@@ -65,7 +65,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16777215,
+            "normalTextColor" : 1,
             "hoverTextColor" : 304638,
             "shadow" : false
         },
@@ -79,7 +79,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16777215,
+            "normalTextColor" : 1,
             "hoverTextColor" : 304638,
             "shadow" : false
         },
@@ -93,7 +93,7 @@
             "height" : 20,
             "alignment" : "center",
             "texture" : "custommainmenu:textures/menu/button.png",
-            "normalTextColor" : 16777215,
+            "normalTextColor" : 1,
             "hoverTextColor" : 304638,
             "shadow" : false
         },
@@ -132,6 +132,11 @@
     
     "other":
     {
-
+        "panorama":
+        {
+            "images" : "custommainmenu:textures/gui/title/background/panorama.png",
+            "blur" : true,
+            "gradient" : false
+        }
     }
 }
