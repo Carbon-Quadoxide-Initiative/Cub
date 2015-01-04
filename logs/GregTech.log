@@ -76,6 +76,7 @@ GT_Mod: Registering MetaTileEntity specific Textures
 GT_Mod: Registering Crop specific Textures
 GT_Mod: Starting Block Icon Load Phase
 GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Re-Unificating Recipes.
 GT_Mod: ServerStarting-Phase started!
 GT_Mod: Unificating outputs of all known Recipe Types.
 GT_Mod: IC2 Machines
@@ -84,6 +85,13 @@ GT_Mod: Smelting
 GT_Mod: Crafting Recipes
 GT_Mod: ServerStarting-Phase finished!
 GT_Mod: Cleaning up all OreDict Crafting Recipes, which have an empty List in them, since they are never meeting any Condition.
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
 *
 Printing List of all registered Objects inside the OreDictionary, now with free extra Sorting:
 *
