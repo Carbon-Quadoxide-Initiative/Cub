@@ -1,10 +1,10 @@
-[21:01:56] [main/INFO]: Setting user: QubicRage
-[21:01:58] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:02:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Simple Fluid Tanks, FMLFileResourcePack:Waila, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip, Unity-Minecraft-1.0.0.zip, pgtat_v1_23.zip, Zederrian Technology_1.0.1.zip, Learn Gregtech Companion.zip
-[21:02:09] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
-[21:02:19] [Sound Library Loader/INFO]: Sound engine started
-[21:02:23] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[21:02:25] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
+[12:39:53] [main/INFO]: Setting user: QubicRage
+[12:39:55] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:40:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip, Unity-Minecraft-1.0.0.zip, pgtat_v1_23.zip, Zederrian Technology_1.0.1.zip, Learn Gregtech Companion.zip
+[12:40:05] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:40:15] [Sound Library Loader/INFO]: Sound engine started
+[12:40:17] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[12:40:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -22,7 +22,7 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:25] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
+[12:40:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -40,7 +40,7 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:25] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
+[12:40:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -58,7 +58,7 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:25] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
+[12:40:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -76,7 +76,7 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:25] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
+[12:40:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -94,10 +94,10 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:25] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
-[21:02:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Simple Fluid Tanks, FMLFileResourcePack:Waila, CustomResources, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip, Unity-Minecraft-1.0.0.zip, pgtat_v1_23.zip, Zederrian Technology_1.0.1.zip, Learn Gregtech Companion.zip
-[21:02:57] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
-[21:02:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
+[12:40:18] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[12:40:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, CustomResources, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip, Unity-Minecraft-1.0.0.zip, pgtat_v1_23.zip, Zederrian Technology_1.0.1.zip, Learn Gregtech Companion.zip
+[12:40:47] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:40:48] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -118,7 +118,7 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
+[12:40:48] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -139,7 +139,7 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
+[12:40:48] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -160,7 +160,7 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
+[12:40:48] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -181,7 +181,7 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
+[12:40:48] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -202,174 +202,6 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:02:59] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
-[21:03:03] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[21:03:04] [Sound Library Loader/INFO]: Sound engine started
-[21:04:27] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:04:27] [Server thread/INFO]: Generating keypair
-[21:04:34] [Server thread/INFO]: Preparing start region for level 0
-[21:04:35] [Server thread/INFO]: Preparing spawn area: 43%
-[21:04:36] [Server thread/INFO]: Preparing spawn area: 87%
-[21:04:37] [Server thread/INFO]: QubicRage[local:E:f8fd123b] logged in with entity id 343 at (48.59639178115273, 82.30713637489191, 311.3981754481742)
-[21:04:37] [Server thread/INFO]: QubicRage joined the game
-[21:04:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2535ms behind, skipping 50 tick(s)
-[21:04:43] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
-[21:04:46] [Server thread/INFO]: Saving and pausing game...
-[21:04:46] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[21:04:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[21:04:47] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[21:04:47] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[21:22:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Simple Fluid Tanks, FMLFileResourcePack:Waila, CustomResources, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip, Unity-Minecraft-1.0.0.zip, pgtat_v1_23.zip, Zederrian Technology_1.0.1.zip, Learn Gregtech Companion.zip, Tank Mod Remake.zip
-[21:22:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
-[21:22:48] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[21:22:49] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
-	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
-	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_146284_a(SourceFile:151) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:225) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_73864_a(SourceFile:158) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:296) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:268) [bdw.class:?]
-	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1629) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:962) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:887) [bao.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:22:49] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
-	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
-	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_146284_a(SourceFile:151) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:225) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_73864_a(SourceFile:158) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:296) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:268) [bdw.class:?]
-	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1629) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:962) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:887) [bao.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:22:49] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
-	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
-	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_146284_a(SourceFile:151) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:225) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_73864_a(SourceFile:158) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:296) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:268) [bdw.class:?]
-	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1629) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:962) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:887) [bao.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:22:49] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
-	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
-	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_146284_a(SourceFile:151) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:225) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_73864_a(SourceFile:158) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:296) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:268) [bdw.class:?]
-	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1629) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:962) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:887) [bao.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:22:49] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
-	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
-	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_146284_a(SourceFile:151) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:225) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreenResourcePacks.func_73864_a(SourceFile:158) [bgf.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:296) [bdw.class:?]
-	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:268) [bdw.class:?]
-	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1629) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:962) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:887) [bao.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[21:22:50] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
-[21:22:53] [Sound Library Loader/INFO]: Sound engine started
-[21:23:00] [Server thread/INFO]: Saving and pausing game...
-[21:23:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[21:23:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[21:23:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[21:23:48] [Server thread/INFO]: Saving and pausing game...
-[21:23:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[21:23:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[21:23:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[21:23:50] [Server thread/INFO]: Saving and pausing game...
-[21:23:50] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[21:23:50] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[21:23:50] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[21:23:51] [Server thread/INFO]: Stopping server
-[21:23:51] [Server thread/INFO]: Saving players
-[21:23:51] [Server thread/INFO]: Saving worlds
-[21:23:51] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[21:23:51] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[21:23:51] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[21:24:25] [Client thread/INFO]: Stopping!
+[12:40:49] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[12:40:54] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[12:40:56] [Sound Library Loader/INFO]: Sound engine started
