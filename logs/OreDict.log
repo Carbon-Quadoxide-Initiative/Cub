@@ -10108,7 +10108,6 @@ gregtech -> pipeRestrictiveHugeOsmium
 GT_Mod: Preload-Phase finished!
 IronChest -> chestWood
 GT_Mod: Beginning Load-Phase.
-gregtech -> craftingTank
 GT_Mod: Load-Phase finished!
 JABBA --Late--> obsidian uses a Prefix as full OreDict Name, and is therefor invalid.
 JABBA --Late--> whiteStone is getting ignored via hardcode.
