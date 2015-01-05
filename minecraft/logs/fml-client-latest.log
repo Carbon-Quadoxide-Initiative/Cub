@@ -7831,3 +7831,238 @@ java.lang.Throwable
 [21:09:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
 [21:10:13] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
 [21:10:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:12:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:13:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:13:41] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:13:41] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:14:14] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:14:14] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:14:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:15:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:15:38] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:15:38] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:15:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:16:16] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:16:16] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:16:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:17:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:17:34] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:17:34] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:17:43] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiChat
+[21:17:50] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[21:17:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:17:57] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[21:17:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:18:06] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiChat
+[21:18:12] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:18:12] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:18:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:18:34] [Client thread/INFO] [inventorytweaks/]: hardcorequesting.client.interfaces.GuiQuestBook
+[21:19:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:19:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:20:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:21:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:22:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:22:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:22:28] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[21:22:36] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[21:22:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:22:46] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:164]: GT_Mod: Starting Block Icon Load Phase
+[21:22:46] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:173]: GT_Mod: Finished Block Icon Load Phase
+[21:22:51] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:82]: GT_Mod: Starting Item Icon Load Phase
+[21:22:51] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:92]: GT_Mod: Finished Item Icon Load Phase
+[21:22:53] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:22:53] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[21:22:53] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[21:22:53] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:22:53] [Client thread/INFO] [IC2/]: IC2 audio starting.
+[21:22:53] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:22:53] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[21:22:54] [Thread-20/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[21:22:54] [Thread-20/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:22:54] [Thread-20/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[21:22:54] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Not Enough Items/]: Mod Not Enough Items is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Better Title Screen/]: Mod Better Title Screen is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Custom Main Menu/]: Mod Custom Main Menu is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Get Ya' Tanks Here/]: Mod Get Ya' Tanks Here is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Hardcore Questing Mode/]: Mod Hardcore Questing Mode is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Iron Chest/]: Mod Iron Chest is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [JABBA/]: Mod JABBA is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [MineTweaker 3/]: Mod MineTweaker 3 is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [MapWriter/]: Mod MapWriter is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Opis/]: Mod Opis is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Resource Loader/]: Mod Resource Loader is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Client thread/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[21:22:54] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:22:54] [IC2 audio init thread/INFO] [IC2/]: IC2 audio ready.
+[21:23:01] [Client thread/INFO] [inventorytweaks/]: hardcorequesting.client.interfaces.GuiQuestBook
+[21:23:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:23:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:24:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:25:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:26:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:26:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:27:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:28:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:29:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:29:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:30:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:31:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:32:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:32:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:33:37] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:33:37] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:33:39] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:33:39] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:33:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:33:58] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:33:58] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:34:04] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:34:04] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:34:07] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.inventory.GuiCrafting
+[21:34:07] [Client thread/INFO] [inventorytweaks/]: net.minecraft.inventory.ContainerWorkbench
+[21:34:19] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:34:19] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:34:21] [Client thread/INFO] [inventorytweaks/]: hardcorequesting.client.interfaces.GuiQuestBook
+[21:34:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:35:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:35:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:36:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:37:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:38:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:38:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:39:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:40:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:41:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:41:20] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:41:20] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:41:26] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:41:26] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:41:34] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:41:34] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:41:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:42:31] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:42:31] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:42:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:42:49] [Client thread/INFO] [inventorytweaks/]: hardcorequesting.client.interfaces.GuiQuestBook
+[21:43:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:44:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:44:21] [Client thread/INFO] [inventorytweaks/]: hardcorequesting.client.interfaces.GuiQuestBook
+[21:44:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:45:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:46:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:46:48] [Client thread/INFO] [inventorytweaks/]: hardcorequesting.client.interfaces.GuiQuestBook
+[21:46:53] [Client thread/INFO] [inventorytweaks/]: hardcorequesting.client.interfaces.GuiQuestBook
+[21:47:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:47:15] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:47:15] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:47:28] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:47:28] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:47:34] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:47:34] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:47:36] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[21:47:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:47:37] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[21:47:37] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[21:47:37] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[21:47:37] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[21:47:37] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[21:47:37] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[21:47:37] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStoppingEvent to mod CodeChickenCore
+[21:47:37] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStoppingEvent to mod CodeChickenCore
+[21:47:37] [Server thread/TRACE] [MobiusCore/MobiusCore]: Sending event FMLServerStoppingEvent to mod MobiusCore
+[21:47:37] [Server thread/TRACE] [MobiusCore/MobiusCore]: Sent event FMLServerStoppingEvent to mod MobiusCore
+[21:47:37] [Server thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sending event FMLServerStoppingEvent to mod NotEnoughItems
+[21:47:37] [Server thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sent event FMLServerStoppingEvent to mod NotEnoughItems
+[21:47:37] [Server thread/TRACE] [BetterTitleScreen/BetterTitleScreen]: Sending event FMLServerStoppingEvent to mod BetterTitleScreen
+[21:47:37] [Server thread/TRACE] [BetterTitleScreen/BetterTitleScreen]: Sent event FMLServerStoppingEvent to mod BetterTitleScreen
+[21:47:37] [Server thread/TRACE] [CustomMainMenu/CustomMainMenu]: Sending event FMLServerStoppingEvent to mod CustomMainMenu
+[21:47:37] [Server thread/TRACE] [CustomMainMenu/CustomMainMenu]: Sent event FMLServerStoppingEvent to mod CustomMainMenu
+[21:47:37] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerStoppingEvent to mod IC2
+[21:47:37] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerStoppingEvent to mod IC2
+[21:47:37] [Server thread/TRACE] [GYTH/GYTH]: Sending event FMLServerStoppingEvent to mod GYTH
+[21:47:37] [Server thread/TRACE] [GYTH/GYTH]: Sent event FMLServerStoppingEvent to mod GYTH
+[21:47:37] [Server thread/TRACE] [HardcoreQuesting/HardcoreQuesting]: Sending event FMLServerStoppingEvent to mod HardcoreQuesting
+[21:47:37] [Server thread/TRACE] [HardcoreQuesting/HardcoreQuesting]: Sent event FMLServerStoppingEvent to mod HardcoreQuesting
+[21:47:37] [Server thread/TRACE] [inventorytweaks/inventorytweaks]: Sending event FMLServerStoppingEvent to mod inventorytweaks
+[21:47:37] [Server thread/TRACE] [inventorytweaks/inventorytweaks]: Sent event FMLServerStoppingEvent to mod inventorytweaks
+[21:47:37] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerStoppingEvent to mod IronChest
+[21:47:37] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerStoppingEvent to mod IronChest
+[21:47:37] [Server thread/TRACE] [Waila/Waila]: Sending event FMLServerStoppingEvent to mod Waila
+[21:47:37] [Server thread/TRACE] [Waila/Waila]: Sent event FMLServerStoppingEvent to mod Waila
+[21:47:37] [Server thread/TRACE] [JABBA/JABBA]: Sending event FMLServerStoppingEvent to mod JABBA
+[21:47:37] [Server thread/TRACE] [JABBA/JABBA]: Sent event FMLServerStoppingEvent to mod JABBA
+[21:47:37] [Server thread/TRACE] [Lockdown/Lockdown]: Sending event FMLServerStoppingEvent to mod Lockdown
+[21:47:37] [Server thread/TRACE] [Lockdown/Lockdown]: Sent event FMLServerStoppingEvent to mod Lockdown
+[21:47:37] [Server thread/TRACE] [MineTweaker3/MineTweaker3]: Sending event FMLServerStoppingEvent to mod MineTweaker3
+[21:47:37] [Server thread/TRACE] [MineTweaker3/MineTweaker3]: Sent event FMLServerStoppingEvent to mod MineTweaker3
+[21:47:37] [Server thread/TRACE] [neiintegration/neiintegration]: Sending event FMLServerStoppingEvent to mod neiintegration
+[21:47:37] [Server thread/TRACE] [neiintegration/neiintegration]: Sent event FMLServerStoppingEvent to mod neiintegration
+[21:47:37] [Server thread/TRACE] [MapWriter/MapWriter]: Sending event FMLServerStoppingEvent to mod MapWriter
+[21:47:37] [Server thread/TRACE] [MapWriter/MapWriter]: Sent event FMLServerStoppingEvent to mod MapWriter
+[21:47:37] [Server thread/TRACE] [Opis/Opis]: Sending event FMLServerStoppingEvent to mod Opis
+[21:47:37] [Server thread/TRACE] [Opis/Opis]: Sent event FMLServerStoppingEvent to mod Opis
+[21:47:37] [Server thread/TRACE] [ResourceLoader/ResourceLoader]: Sending event FMLServerStoppingEvent to mod ResourceLoader
+[21:47:37] [Server thread/TRACE] [ResourceLoader/ResourceLoader]: Sent event FMLServerStoppingEvent to mod ResourceLoader
+[21:47:37] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerStoppingEvent to mod gregtech
+[21:47:37] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerStoppingEvent to mod gregtech
+[21:47:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:47:38] [Server thread/INFO] [FML/]: Unloading dimension 0
+[21:47:38] [Server thread/INFO] [FML/]: Unloading dimension -1
+[21:47:38] [Server thread/INFO] [FML/]: Unloading dimension 1
+[21:47:38] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[21:47:38] [Server thread/INFO] [FML/]: Applying holder lookups
+[21:47:38] [Server thread/INFO] [FML/]: Holder lookups applied
+[21:47:38] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[21:47:38] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[21:47:38] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[21:47:38] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[21:47:38] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[21:47:38] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[21:47:38] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStoppedEvent to mod CodeChickenCore
+[21:47:38] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStoppedEvent to mod CodeChickenCore
+[21:47:38] [Server thread/TRACE] [MobiusCore/MobiusCore]: Sending event FMLServerStoppedEvent to mod MobiusCore
+[21:47:38] [Server thread/TRACE] [MobiusCore/MobiusCore]: Sent event FMLServerStoppedEvent to mod MobiusCore
+[21:47:38] [Server thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sending event FMLServerStoppedEvent to mod NotEnoughItems
+[21:47:38] [Server thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sent event FMLServerStoppedEvent to mod NotEnoughItems
+[21:47:38] [Server thread/TRACE] [BetterTitleScreen/BetterTitleScreen]: Sending event FMLServerStoppedEvent to mod BetterTitleScreen
+[21:47:38] [Server thread/TRACE] [BetterTitleScreen/BetterTitleScreen]: Sent event FMLServerStoppedEvent to mod BetterTitleScreen
+[21:47:38] [Server thread/TRACE] [CustomMainMenu/CustomMainMenu]: Sending event FMLServerStoppedEvent to mod CustomMainMenu
+[21:47:38] [Server thread/TRACE] [CustomMainMenu/CustomMainMenu]: Sent event FMLServerStoppedEvent to mod CustomMainMenu
+[21:47:38] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerStoppedEvent to mod IC2
+[21:47:39] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerStoppedEvent to mod IC2
+[21:47:39] [Server thread/TRACE] [GYTH/GYTH]: Sending event FMLServerStoppedEvent to mod GYTH
+[21:47:39] [Server thread/TRACE] [GYTH/GYTH]: Sent event FMLServerStoppedEvent to mod GYTH
+[21:47:39] [Server thread/TRACE] [HardcoreQuesting/HardcoreQuesting]: Sending event FMLServerStoppedEvent to mod HardcoreQuesting
+[21:47:39] [Server thread/TRACE] [HardcoreQuesting/HardcoreQuesting]: Sent event FMLServerStoppedEvent to mod HardcoreQuesting
+[21:47:39] [Server thread/TRACE] [inventorytweaks/inventorytweaks]: Sending event FMLServerStoppedEvent to mod inventorytweaks
+[21:47:39] [Server thread/TRACE] [inventorytweaks/inventorytweaks]: Sent event FMLServerStoppedEvent to mod inventorytweaks
+[21:47:39] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerStoppedEvent to mod IronChest
+[21:47:39] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerStoppedEvent to mod IronChest
+[21:47:39] [Server thread/TRACE] [Waila/Waila]: Sending event FMLServerStoppedEvent to mod Waila
+[21:47:39] [Server thread/TRACE] [Waila/Waila]: Sent event FMLServerStoppedEvent to mod Waila
+[21:47:39] [Server thread/TRACE] [JABBA/JABBA]: Sending event FMLServerStoppedEvent to mod JABBA
+[21:47:39] [Server thread/TRACE] [JABBA/JABBA]: Sent event FMLServerStoppedEvent to mod JABBA
+[21:47:39] [Server thread/TRACE] [Lockdown/Lockdown]: Sending event FMLServerStoppedEvent to mod Lockdown
+[21:47:39] [Server thread/TRACE] [Lockdown/Lockdown]: Sent event FMLServerStoppedEvent to mod Lockdown
+[21:47:39] [Server thread/TRACE] [MineTweaker3/MineTweaker3]: Sending event FMLServerStoppedEvent to mod MineTweaker3
+[21:47:39] [Server thread/TRACE] [MineTweaker3/MineTweaker3]: Sent event FMLServerStoppedEvent to mod MineTweaker3
+[21:47:39] [Server thread/TRACE] [neiintegration/neiintegration]: Sending event FMLServerStoppedEvent to mod neiintegration
+[21:47:39] [Server thread/TRACE] [neiintegration/neiintegration]: Sent event FMLServerStoppedEvent to mod neiintegration
+[21:47:39] [Server thread/TRACE] [MapWriter/MapWriter]: Sending event FMLServerStoppedEvent to mod MapWriter
+[21:47:39] [Server thread/TRACE] [MapWriter/MapWriter]: Sent event FMLServerStoppedEvent to mod MapWriter
+[21:47:39] [Server thread/TRACE] [Opis/Opis]: Sending event FMLServerStoppedEvent to mod Opis
+[21:47:39] [Server thread/TRACE] [Opis/Opis]: Sent event FMLServerStoppedEvent to mod Opis
+[21:47:39] [Server thread/TRACE] [ResourceLoader/ResourceLoader]: Sending event FMLServerStoppedEvent to mod ResourceLoader
+[21:47:39] [Server thread/TRACE] [ResourceLoader/ResourceLoader]: Sent event FMLServerStoppedEvent to mod ResourceLoader
+[21:47:39] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerStoppedEvent to mod gregtech
+[21:47:39] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerStoppedEvent to mod gregtech
+[21:47:39] [Client thread/INFO] [MapWriter/]: Mw.close: closing...
+[21:47:39] [Client thread/INFO] [MapWriter/]: waiting for 277 tasks to finish...
+[21:47:40] [Client thread/INFO] [MapWriter/]: done
+[21:47:41] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:47:41] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[21:47:42] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[21:47:42] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 

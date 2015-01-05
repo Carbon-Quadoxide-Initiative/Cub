@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:false
 ao:0
 clouds:false
-resourcePacks:["Learn Gregtech Companion.zip"]
+resourcePacks:["Learn Gregtech Companion.zip","Unity-HardcoreQuestingMode-1.3.0.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
