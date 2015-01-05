@@ -7677,3 +7677,157 @@ auk=[auk : auk => net.minecraft.world.gen.structure.StructureStrongholdPieces$2 
 [20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar, examining for codechicken classes
 [20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar, examining for codechicken classes
 [20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar, examining for codechicken classes
+[20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar, examining for codechicken classes
+[20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar, examining for codechicken classes
+[20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar, examining for codechicken classes
+[20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar, examining for codechicken classes
+[20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar, examining for codechicken classes
+[20:56:00] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\16.0\guava-16.0.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.2.1\commons-lang3-3.2.1.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.16\authlib-1.5.16.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\AppData\Roaming\.minecraft\versions\1.7.10-Forge10.13.2.1272\1.7.10-Forge10.13.2.1272.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\1.7.10\CodeChickenLib-1.7.10-1.1.1.99-universal.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\industrialcraft-2-2.2.658-experimental.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\InventoryTweaks-1.59-dev-152.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\ic2\ejml-0.23.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\BetterTitleScreen-1.7.10-1.1.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\CustomMainMenu-MC1.7.10-0.9.jar, examining for codechicken classes
+[20:56:01] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\gregtech_1.7.10-5.07.06.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\Gyth-1.0.0-1.7.10.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\HQM-The Journey (4.2.1).jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\ironchest-1.7.10-6.0.62.742-universal.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\Waila-1.5.7a_1.7.10.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\Jabba-1.2.0a_1.7.10.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\Lockdown-universal-1.7.2-2.0.0.0.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\MineTweaker3-1.7.10-3.0.9C.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\NEIIntegration-MC1.7.10-1.0.3.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\Opis-1.2.3_1.7.10.jar, examining for codechicken classes
+[20:56:02] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Jacob\Documents\GitHub\Cub\minecraft\mods\ResourceLoader-1.0.jar, examining for codechicken classes
+[20:56:02] [Client thread/INFO] [STDOUT/]: [ic2.neiIntegration.core.NEIIC2Config:loadConfig:21]: IC2 NEI Submodule initialized
+[20:56:02] [Client thread/DEBUG] [NotEnoughItems/]: Loaded ic2.neiIntegration.core.NEIIC2Config
+[20:56:02] [Client thread/DEBUG] [NotEnoughItems/]: Loaded gregtech.nei.NEI_GT_Config
+[20:56:02] [Client thread/INFO] [neiintegration/]: Loading integration: Forge
+[20:56:02] [Client thread/DEBUG] [NotEnoughItems/]: Loaded tonius.neiintegration.NEIIntegrationConfig
+[20:56:02] [Client thread/INFO] [Waila/]: Received server authentication msg. Remote sync will be activated
+[20:56:02] [Client thread/INFO] [MapWriter/]: Mw.load: loading...
+[20:56:02] [Client thread/INFO] [MapWriter/]: generating block colours
+[20:56:02] [Client thread/INFO] [MapWriter/]: loading block colour overrides file C:\Users\Jacob\Documents\GitHub\Cub\minecraft\config\MapWriterBlockColourOverrides.txt
+[20:56:02] [Client thread/INFO] [MapWriter/]: generating block map colours from textures
+[20:56:02] [Client thread/INFO] [MapWriter/]: created new MwTexture from GL texture id 8 (1024x1024) (1048576 pixels)
+[20:56:02] [Client thread/INFO] [MapWriter/]: processed 702 block textures, 2699 skipped, 3 exceptions
+[20:56:02] [Client thread/INFO] [MapWriter/]: loading block colour overrides file C:\Users\Jacob\Documents\GitHub\Cub\minecraft\config\MapWriterBlockColourOverrides.txt
+[20:56:02] [Client thread/INFO] [MapWriter/]: saving block colours to 'C:\Users\Jacob\Documents\GitHub\Cub\minecraft\config\MapWriterBlockColours.txt'
+[20:56:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[20:56:05] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[20:56:26] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[20:56:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[20:56:36] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:164]: GT_Mod: Starting Block Icon Load Phase
+[20:56:36] [Client thread/INFO] [STDOUT/]: [gregtech.common.blocks.GT_Block_Machines:func_149651_a:173]: GT_Mod: Finished Block Icon Load Phase
+[20:56:41] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:82]: GT_Mod: Starting Item Icon Load Phase
+[20:56:41] [Client thread/INFO] [STDOUT/]: [gregtech.common.items.GT_IntegratedCircuit_Item:func_94581_a:92]: GT_Mod: Finished Item Icon Load Phase
+[20:56:42] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:56:42] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[20:56:43] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[20:56:43] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:56:43] [Client thread/INFO] [IC2/]: IC2 audio starting.
+[20:56:43] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:56:43] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[20:56:43] [Thread-18/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[20:56:43] [Thread-18/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:56:43] [Thread-18/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[20:56:43] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Not Enough Items/]: Mod Not Enough Items is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Better Title Screen/]: Mod Better Title Screen is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Custom Main Menu/]: Mod Custom Main Menu is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Get Ya' Tanks Here/]: Mod Get Ya' Tanks Here is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Hardcore Questing Mode/]: Mod Hardcore Questing Mode is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Iron Chest/]: Mod Iron Chest is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [JABBA/]: Mod JABBA is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [MineTweaker 3/]: Mod MineTweaker 3 is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [MapWriter/]: Mod MapWriter is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Opis/]: Mod Opis is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Resource Loader/]: Mod Resource Loader is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Client thread/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[20:56:43] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:56:43] [IC2 audio init thread/INFO] [IC2/]: IC2 audio ready.
+[20:57:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[20:57:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[20:58:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[20:58:43] [Client thread/INFO] [FML/]: InvTweaks: net.minecraft.client.gui.GuiTextField
+[20:58:43] [Client thread/INFO] [FML/]: InvTweaks: successfully transformed setFocused/func_146195_b
+[20:58:43] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[20:58:43] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[20:58:45] [Client thread/ERROR] [FML/]: Unable to determine registrant mod for codechicken.lib.render.TextureUtils@594fc8a2. This is a critical error and should be impossible
+java.lang.Throwable
+	at cpw.mods.fml.common.eventhandler.EventBus.register(EventBus.java:55) [EventBus.class:?]
+	at codechicken.lib.render.TextureUtils.<clinit>(TextureUtils.java:33) [TextureUtils.class:?]
+	at codechicken.nei.SpawnerRenderer.renderInventoryItem(SpawnerRenderer.java:39) [SpawnerRenderer.class:?]
+	at codechicken.nei.SpawnerRenderer.renderItem(SpawnerRenderer.java:81) [SpawnerRenderer.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.renderInventoryItem(ForgeHooksClient.java:183) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.entity.RenderItem.func_82406_b(RenderItem.java:563) [bny.class:?]
+	at codechicken.nei.guihook.GuiContainerManager.drawItem(GuiContainerManager.java:187) [GuiContainerManager.class:?]
+	at codechicken.nei.guihook.GuiContainerManager.drawItem(GuiContainerManager.java:177) [GuiContainerManager.class:?]
+	at codechicken.nei.ItemPanel.draw(ItemPanel.java:129) [ItemPanel.class:?]
+	at codechicken.nei.LayoutManager.renderObjects(LayoutManager.java:196) [LayoutManager.class:?]
+	at codechicken.nei.guihook.GuiContainerManager.renderObjects(GuiContainerManager.java:387) [GuiContainerManager.class:?]
+	at net.minecraft.client.gui.inventory.GuiContainer.func_73863_a(GuiContainer.java:120) [bex.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1061) [blt.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:990) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:887) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[20:59:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:00:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:00:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:01:27] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:01:27] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:01:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:01:47] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:01:47] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:02:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:03:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:03:38] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:03:38] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:03:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:04:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:04:40] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:04:40] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:04:42] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.GuiExtendedCreativeInv
+[21:04:42] [Client thread/INFO] [inventorytweaks/]: codechicken.nei.ContainerCreativeInv
+[21:05:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:06:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:06:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:07:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:08:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:09:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:09:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
+[21:10:13] [Client thread/INFO] [inventorytweaks/]: net.minecraft.client.gui.GuiIngameMenu
+[21:10:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Let's Learn v0.5.0
