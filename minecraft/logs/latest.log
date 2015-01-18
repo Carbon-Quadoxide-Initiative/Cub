@@ -324,3 +324,33 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 [07:47:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
 [07:47:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
 [07:47:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:49:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[07:49:58] [Server thread/INFO]: Generating keypair
+[07:49:58] [Server thread/INFO]: Preparing start region for level 0
+[07:49:59] [Server thread/INFO]: CarbonBasedGhost[local:E:7304c0e5] logged in with entity id 117799 at (44.97591305124444, 73.25782589446592, 314.605719755785)
+[07:49:59] [Server thread/INFO]: CarbonBasedGhost joined the game
+[07:50:00] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[07:50:02] [Server thread/INFO]: Saving and pausing game...
+[07:50:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:50:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:50:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:52:12] [Server thread/INFO]: Saving and pausing game...
+[07:52:12] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:52:12] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:52:12] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:56:03] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[07:56:07] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
+[08:00:17] [Server thread/INFO]: Saving and pausing game...
+[08:00:17] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[08:00:17] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[08:00:17] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[08:11:01] [Server thread/INFO]: Saving and pausing game...
+[08:11:01] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[08:11:01] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[08:11:01] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[08:11:02] [Server thread/INFO]: Stopping server
+[08:11:02] [Server thread/INFO]: Saving players
+[08:11:02] [Server thread/INFO]: Saving worlds
+[08:11:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[08:11:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[08:11:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
