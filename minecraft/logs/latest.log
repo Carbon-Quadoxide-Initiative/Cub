@@ -1,9 +1,9 @@
-[15:24:58] [main/INFO]: Setting user: QubicRage
-[15:25:00] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:25:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, Learn Gregtech Companion.zip, Unity-HardcoreQuestingMode-1.3.0.zip
-[15:25:22] [Sound Library Loader/INFO]: Sound engine started
-[15:25:26] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[15:25:26] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
+[07:14:35] [main/INFO]: Setting user: CarbonBasedGhost
+[07:14:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[07:14:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, Learn Gregtech Companion.zip, Unity-HardcoreQuestingMode-1.3.0.zip
+[07:14:49] [Sound Library Loader/INFO]: Sound engine started
+[07:14:57] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[07:14:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -15,13 +15,21 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:25:26] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:14:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -33,13 +41,21 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:25:26] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:14:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -51,13 +67,21 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:25:26] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:14:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -69,13 +93,21 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:25:26] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:14:58] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -87,15 +119,23 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:25:26] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
-[15:26:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, CustomResources, Learn Gregtech Companion.zip, Unity-HardcoreQuestingMode-1.3.0.zip
-[15:26:03] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:14:58] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[07:15:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, CustomResources, Learn Gregtech Companion.zip, Unity-HardcoreQuestingMode-1.3.0.zip
+[07:15:13] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -110,13 +150,21 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:26:03] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:15:13] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -131,13 +179,21 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:26:03] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:15:13] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -152,13 +208,21 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:26:03] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:15:13] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -173,13 +237,21 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:26:03] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:15:13] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -194,39 +266,61 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[15:26:04] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
-[15:26:10] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[15:26:11] [Sound Library Loader/INFO]: Sound engine started
-[15:27:57] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:27:57] [Server thread/INFO]: Generating keypair
-[15:27:58] [Server thread/INFO]: Preparing start region for level 0
-[15:27:59] [Server thread/INFO]: Preparing spawn area: 30%
-[15:28:01] [Server thread/INFO]: Preparing spawn area: 95%
-[15:28:02] [Server thread/INFO]: QubicRage[local:E:82164e69] logged in with entity id 312 at (73.34098517848183, 65.0, 324.3767636824555)
-[15:28:02] [Server thread/INFO]: QubicRage joined the game
-[15:28:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3466ms behind, skipping 69 tick(s)
-[15:28:10] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
-[15:28:11] [Server thread/INFO]: Saving and pausing game...
-[15:28:12] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[15:28:12] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[15:28:12] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[15:28:12] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[15:32:04] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
-[15:32:09] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
-[15:42:02] [Server thread/INFO]: Saving and pausing game...
-[15:42:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[15:42:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[15:42:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[15:42:03] [Server thread/INFO]: Stopping server
-[15:42:03] [Server thread/INFO]: Saving players
-[15:42:03] [Server thread/INFO]: Saving worlds
-[15:42:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[15:42:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[15:42:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[15:42:06] [Client thread/INFO]: Stopping!
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_55]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_55]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_55]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:286) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:376) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:165) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:54) [NewLaunch.jar:?]
+[07:15:14] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[07:15:16] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[07:15:17] [Sound Library Loader/INFO]: Sound engine started
+[07:15:24] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[07:15:24] [Server thread/INFO]: Generating keypair
+[07:15:25] [Server thread/INFO]: Preparing start region for level 0
+[07:15:26] [Server thread/INFO]: CarbonBasedGhost[local:E:f5a3c74f] logged in with entity id 314 at (72.33388947969425, 79.09282745514597, 317.5092978864982)
+[07:15:26] [Server thread/INFO]: CarbonBasedGhost joined the game
+[07:15:30] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[07:15:31] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[07:16:08] [Server thread/INFO]: CarbonBasedGhost has just earned the achievement [Taking Inventory]
+[07:16:08] [Client thread/INFO]: [CHAT] CarbonBasedGhost has just earned the achievement [Taking Inventory]
+[07:22:39] [Server thread/INFO]: Saving and pausing game...
+[07:22:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:22:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:22:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:23:17] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[07:23:21] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
+[07:25:38] [Server thread/INFO]: Saving and pausing game...
+[07:25:38] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:25:38] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:25:38] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:26:00] [Server thread/INFO]: Saving and pausing game...
+[07:26:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:26:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:26:00] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:33:47] [Server thread/INFO]: Saving and pausing game...
+[07:33:47] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:33:47] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:33:47] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:34:15] [Server thread/INFO]: Saving and pausing game...
+[07:34:15] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:34:15] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:34:15] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:47:56] [Server thread/INFO]: Saving and pausing game...
+[07:47:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:47:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:47:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[07:47:57] [Server thread/INFO]: Stopping server
+[07:47:57] [Server thread/INFO]: Saving players
+[07:47:57] [Server thread/INFO]: Saving worlds
+[07:47:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[07:47:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[07:47:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
