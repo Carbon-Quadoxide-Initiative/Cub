@@ -354,3 +354,80 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 [08:11:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
 [08:11:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
 [08:11:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:49:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:49:36] [Server thread/INFO]: Generating keypair
+[17:49:36] [Server thread/INFO]: Preparing start region for level 0
+[17:49:37] [Server thread/INFO]: CarbonBasedGhost[local:E:7ad43ce5] logged in with entity id 177983 at (61.54984649195697, 50.0, 284.6978704160661)
+[17:49:37] [Server thread/INFO]: CarbonBasedGhost joined the game
+[17:49:37] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[17:49:42] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[17:49:46] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
+[17:50:11] [Server thread/INFO]: Saving and pausing game...
+[17:50:11] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:50:11] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:50:11] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:52:25] [Client thread/INFO]: Warning: Clientside chunk ticking took 124 ms
+[17:52:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 514 ms
+[17:52:46] [Server thread/INFO]: Saving and pausing game...
+[17:52:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:52:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:52:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:52:56] [Server thread/INFO]: [CarbonBasedGhost: Teleported CarbonBasedGhost to 0.5,0.5,0.5]
+[17:52:56] [Client thread/INFO]: [CHAT] Teleported CarbonBasedGhost to 0.5,0.5,0.5
+[17:52:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 110 ms
+[17:53:07] [Server thread/INFO]: [CarbonBasedGhost: Teleported CarbonBasedGhost to 0.5,0.5,90.5]
+[17:53:07] [Client thread/INFO]: [CHAT] Teleported CarbonBasedGhost to 0.5,0.5,90.5
+[17:53:20] [Server thread/INFO]: [CarbonBasedGhost: Teleported CarbonBasedGhost to 0.5,90.5,0.5]
+[17:53:20] [Client thread/INFO]: [CHAT] Teleported CarbonBasedGhost to 0.5,90.5,0.5
+[17:53:58] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:54:02] [Server thread/INFO]: [CarbonBasedGhost: Cleared the inventory of CarbonBasedGhost, removing 139 items]
+[17:54:02] [Client thread/INFO]: [CHAT] Cleared the inventory of CarbonBasedGhost, removing 139 items
+[17:54:05] [Server thread/INFO]: CarbonBasedGhost fell out of the world
+[17:54:05] [Client thread/INFO]: [CHAT] CarbonBasedGhost fell out of the world
+[17:54:05] [Client thread/INFO]: [CHAT] Ouch! That looked like it hurt
+[17:54:26] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:54:28] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:54:32] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:54:34] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:54:37] [Client thread/INFO]: [CHAT] /setblock, /setworldspawn
+[17:54:37] [Client thread/INFO]: [CHAT] /setblock, /setworldspawn
+[17:54:38] [Client thread/INFO]: [CHAT] /setblock, /setworldspawn
+[17:54:38] [Client thread/INFO]: [CHAT] /setblock, /setworldspawn
+[17:54:38] [Client thread/INFO]: [CHAT] /setblock, /setworldspawn
+[17:54:39] [Client thread/INFO]: [CHAT] /setblock, /setworldspawn
+[17:54:39] [Server thread/INFO]: [CarbonBasedGhost: Set the world spawn point to (60, 70, 286)]
+[17:54:39] [Client thread/INFO]: [CHAT] Set the world spawn point to (60, 70, 286)
+[17:54:45] [Server thread/INFO]: [CarbonBasedGhost: Set the world spawn point to (61, 70, 286)]
+[17:54:45] [Client thread/INFO]: [CHAT] Set the world spawn point to (61, 70, 286)
+[20:12:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8220772ms behind, skipping 164415 tick(s)
+[21:27:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 928294ms behind, skipping 18565 tick(s)
+[21:29:48] [Server thread/INFO]: Saving and pausing game...
+[21:29:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[21:29:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[21:29:48] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[21:33:32] [Server thread/INFO]: Saving and pausing game...
+[21:33:32] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[21:33:32] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[21:33:32] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[21:40:39] [Server thread/INFO]: Saving and pausing game...
+[21:40:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[21:40:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[21:40:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[21:52:16] [Server thread/INFO]: Saving and pausing game...
+[21:52:16] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[21:52:16] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[21:52:16] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[21:52:19] [Server thread/INFO]: Saving and pausing game...
+[21:52:19] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[21:52:19] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[21:52:19] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[21:53:36] [Server thread/INFO]: Saving and pausing game...
+[21:53:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[21:53:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[21:53:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[21:53:36] [Server thread/INFO]: Stopping server
+[21:53:36] [Server thread/INFO]: Saving players
+[21:53:36] [Server thread/INFO]: Saving worlds
+[21:53:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[21:53:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[21:53:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
