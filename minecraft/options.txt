@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:false
 ao:0
 clouds:false
-resourcePacks:["Unity-Minecraft-1.0.0.zip","Learn Gregtech Companion.zip","Unity-HardcoreQuestingMode-1.3.0.zip","Zederrian Technology_1.0.1.zip","pgtat_v1_23.zip","Unity-IronChests-1.0.1.zip","Unity-JABBA-0.9.0.zip"]
+resourcePacks:[]
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -24,7 +24,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
+fullscreen:false
 enableVsync:true
 hideServerAddress:false
 advancedItemTooltips:false
