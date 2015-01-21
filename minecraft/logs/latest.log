@@ -304,3 +304,46 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 [15:35:54] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
 [15:35:54] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
 [15:35:54] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[15:44:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:44:07] [Server thread/INFO]: Generating keypair
+[15:44:07] [Server thread/INFO]: Preparing start region for level 0
+[15:44:08] [Server thread/INFO]: CarbonBasedGhost[local:E:4ec26979] logged in with entity id 10508 at (67.89250697089138, 79.87227996612954, 308.35223628051784)
+[15:44:08] [Server thread/INFO]: CarbonBasedGhost joined the game
+[15:44:08] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[15:44:09] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[15:44:12] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
+[15:49:44] [Server thread/INFO]: Saving and pausing game...
+[15:49:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[15:49:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[15:49:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[15:49:47] [Server thread/INFO]: [@: Teleported CarbonBasedGhost to 60.35207433988546,52.0,285.1355590738714]
+[15:49:47] [Client thread/INFO]: [CHAT] [@: Teleported CarbonBasedGhost to 60.35207433988546,52.0,285.1355590738714]
+[15:50:10] [Server thread/INFO]: [@: Teleported CarbonBasedGhost to 61.30000001192093,70.03584062504456,284.56994433712043]
+[15:50:10] [Client thread/INFO]: [CHAT] [@: Teleported CarbonBasedGhost to 61.30000001192093,70.03584062504456,284.56994433712043]
+[15:51:08] [Server thread/INFO]: Saving and pausing game...
+[15:51:08] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[15:51:08] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[15:51:08] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[15:54:32] [Server thread/INFO]: [@: Teleported CarbonBasedGhost to 60.51819159945728,52.05489334703206,284.30000001192093]
+[15:54:32] [Client thread/INFO]: [CHAT] [@: Teleported CarbonBasedGhost to 60.51819159945728,52.05489334703206,284.30000001192093]
+[15:54:50] [Server thread/INFO]: [@: Teleported CarbonBasedGhost to 61.614747231080045,70.23152379758702,284.55480039273203]
+[15:54:50] [Client thread/INFO]: [CHAT] [@: Teleported CarbonBasedGhost to 61.614747231080045,70.23152379758702,284.55480039273203]
+[15:55:41] [Server thread/INFO]: [@: Teleported CarbonBasedGhost to 60.53806616011478,52.05489334703208,284.60724802543285]
+[15:55:41] [Client thread/INFO]: [CHAT] [@: Teleported CarbonBasedGhost to 60.53806616011478,52.05489334703208,284.60724802543285]
+[15:55:49] [Server thread/INFO]: Saving and pausing game...
+[15:55:49] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[15:55:49] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[15:55:49] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[15:57:13] [Server thread/INFO]: [@: Teleported CarbonBasedGhost to 61.315916722548685,70.03584062504456,284.52349619492105]
+[15:57:13] [Client thread/INFO]: [CHAT] [@: Teleported CarbonBasedGhost to 61.315916722548685,70.03584062504456,284.52349619492105]
+[16:09:07] [Server thread/INFO]: Saving and pausing game...
+[16:09:07] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:09:07] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:09:07] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:09:08] [Server thread/INFO]: Stopping server
+[16:09:08] [Server thread/INFO]: Saving players
+[16:09:08] [Server thread/INFO]: Saving worlds
+[16:09:08] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:09:08] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:09:08] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:09:12] [Client thread/INFO]: Stopping!
