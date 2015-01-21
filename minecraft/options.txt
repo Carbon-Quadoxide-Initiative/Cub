@@ -12,10 +12,10 @@ advancedOpengl:false
 maxFps:120
 fboEnable:true
 difficulty:3
-fancyGraphics:false
-ao:0
+fancyGraphics:true
+ao:2
 clouds:false
-resourcePacks:[]
+resourcePacks:["Learn Gregtech Companion.zip","pgtat_v1_23.zip","Unity-HardcoreQuestingMode-1.3.0.zip","Unity-IronChests-1.0.1.zip","Unity-JABBA-0.9.0.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -104,7 +104,7 @@ key_key.mw_teleport:52
 key_key.mw_zoom_in:201
 key_key.mw_zoom_out:209
 key_key.mw_underground_mode:22
-soundCategory_master:0.18543047
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
