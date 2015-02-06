@@ -1,27 +1,9 @@
-[13:57:02] [main/INFO]: Setting user: QubicRage
-[13:57:04] [Client thread/INFO]: LWJGL Version: 2.9.1
-[13:57:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, Learn Gregtech Companion.zip, pgtat_v1_23.zip, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip
-[13:57:23] [Sound Library Loader/INFO]: Sound engine started
-[13:57:27] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[13:57:28] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
-	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110580_a(SourceFile:61) [bqf.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_130088_a(SourceFile:52) [bqf.class:?]
-	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:28] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
+[16:31:51] [main/INFO]: Setting user: mr10movie
+[16:31:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:32:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, Learn Gregtech Companion.zip, pgtat_v1_23.zip, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip
+[16:32:15] [Sound Library Loader/INFO]: Sound engine started
+[16:32:18] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[16:32:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -33,14 +15,14 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:28] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
+[16:32:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
+java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
 	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
@@ -51,13 +33,13 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:28] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
+[16:32:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -69,13 +51,31 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:28] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
+[16:32:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
+java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110580_a(SourceFile:61) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_130088_a(SourceFile:52) [bqf.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[16:32:18] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -87,36 +87,16 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:538) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:28] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
-[13:57:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, CustomResources, Learn Gregtech Companion.zip, pgtat_v1_23.zip, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip
-[13:57:59] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
-	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
-	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
-	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:303) [FMLClientHandler.class:?]
-	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:59] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
+[16:32:18] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[16:32:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:GregTech, FMLFileResourcePack:Get Ya' Tanks Here, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Lockdown, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Waila, CustomResources, Learn Gregtech Companion.zip, pgtat_v1_23.zip, Unity-HardcoreQuestingMode-1.3.0.zip, Unity-IronChests-1.0.1.zip, Unity-JABBA-0.9.0.zip
+[16:32:56] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[16:32:57] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -131,14 +111,14 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/620.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:59] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
-java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
+[16:32:57] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png
+java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/621.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
 	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
@@ -152,13 +132,13 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:59] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
+[16:32:57] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -173,13 +153,34 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/622.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:57:59] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
+[16:32:57] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png
+java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/623.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:303) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[16:32:57] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png
 java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
@@ -194,184 +195,123 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_71]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_71]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-[13:58:00] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
-[13:58:05] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
-[13:58:06] [Sound Library Loader/INFO]: Sound engine started
-[14:10:28] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[14:10:28] [Server thread/INFO]: Generating keypair
-[14:10:30] [Server thread/INFO]: Preparing start region for level 0
-[14:10:31] [Server thread/INFO]: Preparing spawn area: 7%
-[14:10:32] [Server thread/INFO]: Preparing spawn area: 58%
-[14:10:33] [Server thread/INFO]: QubicRage[local:E:98a5b5e2] logged in with entity id 345 at (73.55169413783106, 69.875, 284.66075187062665)
-[14:10:33] [Server thread/INFO]: QubicRage joined the game
-[14:10:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3795ms behind, skipping 75 tick(s)
-[14:10:40] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
-[14:10:42] [Server thread/INFO]: Saving and pausing game...
-[14:10:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:10:42] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[14:10:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:10:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:11:03] [Server thread/INFO]: Saving and pausing game...
-[14:11:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:11:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:11:03] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:11:06] [Server thread/INFO]: Saving and pausing game...
-[14:11:06] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:11:06] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:11:06] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:11:09] [Server thread/INFO]: Saving and pausing game...
-[14:11:09] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:11:09] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:11:09] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:11:21] [Server thread/INFO]: [@: Teleported QubicRage to 60.78688268637599,52.0,285.0981698385155]
-[14:11:21] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 60.78688268637599,52.0,285.0981698385155]
-[14:11:27] [Server thread/INFO]: [@: Teleported QubicRage to 61.388497456446906,70.0,284.6222409195429]
-[14:11:27] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 61.388497456446906,70.0,284.6222409195429]
-[14:11:37] [Server thread/INFO]: Saving and pausing game...
-[14:11:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:11:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:11:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:12:49] [Client thread/INFO]: [CHAT] You are now playing adventure
-[14:12:49] [Client thread/INFO]: [CHAT] You are now playing survival
-[14:12:49] [Client thread/INFO]: [CHAT] You are now playing creative
-[14:12:50] [Client thread/INFO]: [CHAT] You are now playing creative+
-[14:12:56] [Server thread/INFO]: Saving and pausing game...
-[14:12:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:12:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:12:56] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:12:58] [Server thread/INFO]: Saving and pausing game...
-[14:12:58] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:12:58] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:12:58] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:13:10] [Server thread/INFO]: Saving and pausing game...
-[14:13:10] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:13:10] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:13:10] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:14:24] [Server thread/INFO]: Saving and pausing game...
-[14:14:24] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:14:24] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:14:24] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:14:27] [Server thread/INFO]: Saving and pausing game...
-[14:14:27] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:14:27] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:14:27] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:14:30] [Server thread/INFO]: Saving and pausing game...
-[14:14:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:14:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:14:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:14:33] [Client thread/INFO]: [CHAT] Command set: /tp @p ~ ~-18 ~
-[14:14:36] [Server thread/INFO]: Saving and pausing game...
-[14:14:36] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:14:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:14:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:14:49] [Server thread/INFO]: [@: Teleported QubicRage to 61.00859970967435,52.0,285.00415795476454]
-[14:14:49] [Server thread/INFO]: [@: Teleported QubicRage to 61.00859970967435,34.0,285.00415795476454]
-[14:14:49] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 61.00859970967435,52.0,285.00415795476454]
-[14:14:49] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 61.00859970967435,34.0,285.00415795476454]
-[14:15:34] [Server thread/INFO]: QubicRage fell out of the world
-[14:15:34] [Client thread/INFO]: [CHAT] QubicRage fell out of the world
-[14:15:34] [Client thread/INFO]: [CHAT] Ouch! That looked like it hurt
-[14:15:44] [Server thread/INFO]: Saving and pausing game...
-[14:15:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:15:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:15:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:15:49] [Client thread/INFO]: [CHAT] Command set: s
-[14:15:50] [Server thread/INFO]: [@: Teleported QubicRage to 61.75259420644246,52.0,285.1678255634224]
-[14:15:50] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 61.75259420644246,52.0,285.1678255634224]
-[14:15:54] [Server thread/INFO]: [@: Teleported QubicRage to 61.40252971926501,70.03584062504456,284.69999998807907]
-[14:15:54] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 61.40252971926501,70.03584062504456,284.69999998807907]
-[14:15:54] [Server thread/INFO]: [@: Teleported QubicRage to 61.40252971926501,52.03584062504456,284.69999998807907]
-[14:15:54] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 61.40252971926501,52.03584062504456,284.69999998807907]
-[14:15:59] [Server thread/INFO]: Saving and pausing game...
-[14:15:59] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:15:59] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:15:59] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:16:07] [Client thread/INFO]: [CHAT] Command set: /tp @p ~1 ~20 ~-5
-[14:16:08] [Server thread/INFO]: [@: Teleported QubicRage to 62.46805953668255,70.03584062504456,284.69999998807907]
-[14:16:08] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 62.46805953668255,70.03584062504456,284.69999998807907]
-[14:16:27] [Server thread/INFO]: [@: Teleported QubicRage to 61.56459296504145,52.0,285.0122180515553]
-[14:16:27] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 61.56459296504145,52.0,285.0122180515553]
-[14:17:13] [Server thread/INFO]: [QubicRage: Given [Sign] * 1 to QubicRage]
-[14:17:13] [Client thread/INFO]: [CHAT] Given [Sign] * 1 to QubicRage
-[14:17:15] [Server thread/INFO]: Saving and pausing game...
-[14:17:15] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:17:15] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:17:15] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:18:49] [Server thread/INFO]: [QubicRage: Given [Copper Ore] * 1 to QubicRage]
-[14:18:49] [Client thread/INFO]: [CHAT] Given [Copper Ore] * 1 to QubicRage
-[14:19:28] [Server thread/INFO]: Saving and pausing game...
-[14:19:28] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:19:28] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:19:28] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:19:57] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
-[14:20:03] [Client thread/INFO]: [CHAT] Type '/hqm help' for help.
-[14:20:04] [Server thread/INFO]: [QubicRage: Teleported QubicRage to 73.5,71.5,285.5]
-[14:20:04] [Client thread/INFO]: [CHAT] Teleported QubicRage to 73.5,71.5,285.5
-[14:20:08] [Client thread/INFO]: [CHAT] Format: 'hqm <command> <arguments>'
-[14:20:08] [Client thread/INFO]: [CHAT] Available commands:
-[14:20:08] [Client thread/INFO]: [CHAT] - version : Version information.
-[14:20:08] [Client thread/INFO]: [CHAT] - hardcore : Enable Hardcore mode.
-[14:20:08] [Client thread/INFO]: [CHAT] - quest : Enable Questing mode.
-[14:20:08] [Client thread/INFO]: [CHAT] - enable : Enable both Questing and Hardcore mode.
-[14:20:08] [Client thread/INFO]: [CHAT] - edit [<playername>] : Give yourself a book in edit mode, playername optional.
-[14:20:08] [Client thread/INFO]: [CHAT] - lives : Check your current lives remaining.
-[14:20:08] [Client thread/INFO]: [CHAT] - lives playercheck <playername>: Check current lives remaining of playername.
-[14:20:08] [Client thread/INFO]: [CHAT] - lives add : 1 live added to your lifepool to <playername>.
-[14:20:08] [Client thread/INFO]: [CHAT] - lives add <amount>: amount of lives added to your lifepool.
-[14:20:08] [Client thread/INFO]: [CHAT] - lives add <playername> <amount>: amount of lives added to lifepool of <playername>.
-[14:20:08] [Client thread/INFO]: [CHAT] - lives remove : 1 live removed from your lifepool.
-[14:20:08] [Client thread/INFO]: [CHAT] - lives remove <amount>: amount of lives remove from your lifepool.
-[14:20:08] [Client thread/INFO]: [CHAT] - lives remove <playername> <amount>: amount of lives removed from lifepool of <playername>.
-[14:20:26] [Server thread/INFO]: [QubicRage: Given [Quest Book] * 1 to QubicRage]
-[14:20:26] [Client thread/INFO]: [CHAT] Given [Quest Book] * 1 to QubicRage
-[14:20:35] [Server thread/INFO]: [@: Teleported QubicRage to 60.70688664226016,52.0,284.9599410608114]
-[14:20:35] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 60.70688664226016,52.0,284.9599410608114]
-[14:23:06] [Server thread/INFO]: [@: Teleported QubicRage to 62.473550127126146,70.0,284.3737724547066]
-[14:23:06] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 62.473550127126146,70.0,284.3737724547066]
-[14:23:07] [Server thread/INFO]: [@: Teleported QubicRage to 62.14030199834395,52.0,284.30000001192093]
-[14:23:07] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 62.14030199834395,52.0,284.30000001192093]
-[14:23:10] [Server thread/INFO]: [@: Teleported QubicRage to 62.64698661392335,70.03584062504456,284.5290967851928]
-[14:23:10] [Client thread/INFO]: [CHAT] [@: Teleported QubicRage to 62.64698661392335,70.03584062504456,284.5290967851928]
-[14:23:31] [Server thread/INFO]: Saving and pausing game...
-[14:23:31] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:23:31] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:23:31] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:25:00] [Server thread/INFO]: [QubicRage: Given [Green Wool] * 1 to QubicRage]
-[14:25:00] [Client thread/INFO]: [CHAT] Given [Green Wool] * 1 to QubicRage
-[14:25:01] [Server thread/INFO]: [QubicRage: Given [Green Stained Clay] * 1 to QubicRage]
-[14:25:01] [Client thread/INFO]: [CHAT] Given [Green Stained Clay] * 1 to QubicRage
-[14:25:12] [Server thread/INFO]: [QubicRage: Given [Lime Stained Clay] * 1 to QubicRage]
-[14:25:12] [Client thread/INFO]: [CHAT] Given [Lime Stained Clay] * 1 to QubicRage
-[14:25:13] [Server thread/INFO]: [QubicRage: Given [Lime Wool] * 1 to QubicRage]
-[14:25:13] [Client thread/INFO]: [CHAT] Given [Lime Wool] * 1 to QubicRage
-[14:41:13] [Server thread/INFO]: Saving and pausing game...
-[14:41:13] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:41:13] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:41:13] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:45:21] [Server thread/INFO]: Saving and pausing game...
-[14:45:21] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:45:21] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:45:21] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:46:23] [Server thread/INFO]: Saving and pausing game...
-[14:46:23] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:46:23] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:46:23] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:46:32] [Client thread/INFO]: [CHAT] You are now playing adventure
-[14:46:32] [Client thread/INFO]: [CHAT] You are now playing survival
-[14:46:44] [Server thread/INFO]: Saving and pausing game...
-[14:46:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:46:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:46:44] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:46:45] [Server thread/INFO]: Stopping server
-[14:46:45] [Server thread/INFO]: Saving players
-[14:46:45] [Server thread/INFO]: Saving worlds
-[14:46:45] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
-[14:46:45] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
-[14:46:45] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
-[14:46:49] [Client thread/INFO]: Stopping!
+[16:32:58] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[16:32:59] [Sound Library Loader/INFO]: Sound engine started
+[16:34:10] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:34:10] [Server thread/INFO]: Generating keypair
+[16:34:11] [Server thread/INFO]: Preparing start region for level 0
+[16:34:12] [Server thread/INFO]: Preparing spawn area: 42%
+[16:34:14] [Server thread/INFO]: mr10movie[local:E:e6ab435a] logged in with entity id 355 at (31.300000011920922, 69.47106198586985, 297.69999998807907)
+[16:34:14] [Server thread/INFO]: mr10movie joined the game
+[16:34:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2647ms behind, skipping 52 tick(s)
+[16:34:20] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[16:34:21] [Server thread/INFO]: Saving and pausing game...
+[16:34:21] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:34:21] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[16:34:21] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:34:21] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:34:23] [Server thread/INFO]: Saving and pausing game...
+[16:34:24] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:34:24] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:34:24] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:34:30] [Server thread/INFO]: Saving and pausing game...
+[16:34:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:34:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:34:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:34:30] [Server thread/INFO]: Stopping server
+[16:34:30] [Server thread/INFO]: Saving players
+[16:34:30] [Server thread/INFO]: Saving worlds
+[16:34:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:34:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:34:30] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:34:37] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:34:37] [Server thread/INFO]: Generating keypair
+[16:34:38] [Server thread/INFO]: Preparing start region for level 0
+[16:34:39] [Server thread/INFO]: mr10movie[local:E:74842288] logged in with entity id 1526 at (31.300000011920922, 69.47106198586985, 297.69999998807907)
+[16:34:39] [Server thread/INFO]: mr10movie joined the game
+[16:34:40] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[16:34:41] [Server thread/INFO]: Saving and pausing game...
+[16:34:41] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:34:41] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:34:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:34:53] [Server thread/INFO]: Saving and pausing game...
+[16:34:53] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:34:53] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:34:53] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:35:20] [Server thread/INFO]: [@: Teleported mr10movie to 61.290583907498785,52.0,285.0817619914889]
+[16:35:20] [Client thread/INFO]: [CHAT] [@: Teleported mr10movie to 61.290583907498785,52.0,285.0817619914889]
+[16:35:27] [Client thread/INFO]: [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing and naturalRegeneration
+[16:35:30] [Server thread/INFO]: [mr10movie: Game rule has been updated]
+[16:35:30] [Client thread/INFO]: [CHAT] Game rule has been updated
+[16:35:40] [Client thread/INFO]: [CHAT] You are now playing creative+
+[16:35:41] [Client thread/INFO]: [CHAT] You are now playing adventure
+[16:35:41] [Client thread/INFO]: [CHAT] You are now playing survival
+[16:35:53] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[16:35:56] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
+[16:40:08] [Server thread/INFO]: [mr10movie: Given [Charcoal] * 1 to mr10movie]
+[16:40:08] [Client thread/INFO]: [CHAT] Given [Charcoal] * 1 to mr10movie
+[16:40:08] [Server thread/INFO]: [mr10movie: Given [Charcoal] * 1 to mr10movie]
+[16:40:08] [Client thread/INFO]: [CHAT] Given [Charcoal] * 1 to mr10movie
+[16:40:09] [Server thread/INFO]: [mr10movie: Given [Charcoal] * 1 to mr10movie]
+[16:40:09] [Client thread/INFO]: [CHAT] Given [Charcoal] * 1 to mr10movie
+[16:40:09] [Server thread/INFO]: [mr10movie: Given [Charcoal] * 1 to mr10movie]
+[16:40:09] [Client thread/INFO]: [CHAT] Given [Charcoal] * 1 to mr10movie
+[16:40:09] [Server thread/INFO]: [mr10movie: Given [Charcoal] * 1 to mr10movie]
+[16:40:09] [Client thread/INFO]: [CHAT] Given [Charcoal] * 1 to mr10movie
+[16:40:09] [Server thread/INFO]: [mr10movie: Given [Charcoal] * 1 to mr10movie]
+[16:40:09] [Client thread/INFO]: [CHAT] Given [Charcoal] * 1 to mr10movie
+[16:40:10] [Server thread/INFO]: [mr10movie: Given [Charcoal] * 1 to mr10movie]
+[16:40:10] [Client thread/INFO]: [CHAT] Given [Charcoal] * 1 to mr10movie
+[16:40:10] [Server thread/INFO]: [mr10movie: Given [Charcoal] * 1 to mr10movie]
+[16:40:10] [Client thread/INFO]: [CHAT] Given [Charcoal] * 1 to mr10movie
+[16:40:24] [Server thread/INFO]: [mr10movie: Given [Coal Ore] * 16 to mr10movie]
+[16:40:24] [Client thread/INFO]: [CHAT] Given [Coal Ore] * 16 to mr10movie
+[16:41:08] [Client thread/INFO]: [CHAT] Type '/hqm help' for help.
+[16:41:09] [Client thread/INFO]: [CHAT] Format: 'hqm <command> <arguments>'
+[16:41:09] [Client thread/INFO]: [CHAT] Available commands:
+[16:41:09] [Client thread/INFO]: [CHAT] - version : Version information.
+[16:41:09] [Client thread/INFO]: [CHAT] - hardcore : Enable Hardcore mode.
+[16:41:09] [Client thread/INFO]: [CHAT] - quest : Enable Questing mode.
+[16:41:09] [Client thread/INFO]: [CHAT] - enable : Enable both Questing and Hardcore mode.
+[16:41:09] [Client thread/INFO]: [CHAT] - edit [<playername>] : Give yourself a book in edit mode, playername optional.
+[16:41:09] [Client thread/INFO]: [CHAT] - lives : Check your current lives remaining.
+[16:41:09] [Client thread/INFO]: [CHAT] - lives playercheck <playername>: Check current lives remaining of playername.
+[16:41:09] [Client thread/INFO]: [CHAT] - lives add : 1 live added to your lifepool to <playername>.
+[16:41:09] [Client thread/INFO]: [CHAT] - lives add <amount>: amount of lives added to your lifepool.
+[16:41:09] [Client thread/INFO]: [CHAT] - lives add <playername> <amount>: amount of lives added to lifepool of <playername>.
+[16:41:09] [Client thread/INFO]: [CHAT] - lives remove : 1 live removed from your lifepool.
+[16:41:09] [Client thread/INFO]: [CHAT] - lives remove <amount>: amount of lives remove from your lifepool.
+[16:41:09] [Client thread/INFO]: [CHAT] - lives remove <playername> <amount>: amount of lives removed from lifepool of <playername>.
+[16:41:22] [Client thread/INFO]: [CHAT] Hardcore Mode has been activated. Enjoy!
+[16:41:22] [Client thread/INFO]: [CHAT] You currently have 3 live(s) left.
+[16:41:22] [Client thread/INFO]: [CHAT] Questing mode is already activated.
+[16:41:26] [Client thread/INFO]: [CHAT] Questing mode is already activated.
+[16:41:37] [Server thread/INFO]: Saving and pausing game...
+[16:41:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:41:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:41:37] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[16:45:02] [Server thread/INFO]: Saving and pausing game...
+[16:45:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[16:45:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[16:45:02] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:15:53] [Server thread/INFO]: [mr10movie: Given [Bronze Plated Blast Furnace] * 1 to mr10movie]
+[17:15:53] [Client thread/INFO]: [CHAT] Given [Bronze Plated Blast Furnace] * 1 to mr10movie
+[17:17:27] [Server thread/INFO]: [mr10movie: Given [Steam Alloy Smelter] * 1 to mr10movie]
+[17:17:27] [Client thread/INFO]: [CHAT] Given [Steam Alloy Smelter] * 1 to mr10movie
+[17:29:45] [Server thread/INFO]: Saving and pausing game...
+[17:29:45] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:29:45] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:29:45] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:29:46] [Server thread/INFO]: Stopping server
+[17:29:46] [Server thread/INFO]: Saving players
+[17:29:46] [Server thread/INFO]: Saving worlds
+[17:29:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[17:29:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[17:29:46] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[17:29:50] [Client thread/INFO]: Stopping!
