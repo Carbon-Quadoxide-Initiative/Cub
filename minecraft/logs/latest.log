@@ -271,3 +271,62 @@ java.io.FileNotFoundException: gregtech:textures/items/gt.metaitem.01/624.png
 [22:43:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
 [22:43:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
 [22:43:57] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[22:46:35] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:46:35] [Server thread/INFO]: Generating keypair
+[22:46:35] [Server thread/INFO]: Preparing start region for level 0
+[22:46:36] [Server thread/INFO]: Preparing spawn area: 93%
+[22:46:37] [Server thread/INFO]: QubicRage[local:E:56ef7c76] logged in with entity id 57569 at (57.908230093285304, 56.0, 283.4020699874245)
+[22:46:37] [Server thread/INFO]: QubicRage joined the game
+[22:46:38] [Client thread/INFO]: [CHAT] This server doesn't have Hardcore Questing Mode enabled.
+[22:46:39] [Server thread/INFO]: Saving and pausing game...
+[22:46:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[22:46:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[22:46:39] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[22:46:57] [Server thread/INFO]: [QubicRage: Given [Basic Steam Turbine] * 1 to QubicRage]
+[22:46:57] [Client thread/INFO]: [CHAT] Given [Basic Steam Turbine] * 1 to QubicRage
+[22:47:21] [Server thread/INFO]: [QubicRage: Given [Wire Cutter] * 1 to QubicRage]
+[22:47:21] [Client thread/INFO]: [CHAT] Given [Wire Cutter] * 1 to QubicRage
+[22:47:32] [Server thread/INFO]: [QubicRage: Given [Screwdriver] * 1 to QubicRage]
+[22:47:32] [Client thread/INFO]: [CHAT] Given [Screwdriver] * 1 to QubicRage
+[22:47:41] [Server thread/INFO]: [QubicRage: Given [Crowbar] * 1 to QubicRage]
+[22:47:41] [Client thread/INFO]: [CHAT] Given [Crowbar] * 1 to QubicRage
+[22:48:08] [Server thread/INFO]: [QubicRage: Given [Stick] * 64 to QubicRage]
+[22:48:08] [Client thread/INFO]: [CHAT] Given [Stick] * 64 to QubicRage
+[22:48:13] [Server thread/INFO]: [QubicRage: Given [Damascus Steel Plate] * 64 to QubicRage]
+[22:48:13] [Client thread/INFO]: [CHAT] Given [Damascus Steel Plate] * 64 to QubicRage
+[22:48:35] [Server thread/INFO]: [QubicRage: Given [Damascus Steel Rod] * 64 to QubicRage]
+[22:48:35] [Client thread/INFO]: [CHAT] Given [Damascus Steel Rod] * 64 to QubicRage
+[22:49:17] [Server thread/INFO]: [QubicRage: Given [Damascus Steel Ingot] * 64 to QubicRage]
+[22:49:17] [Client thread/INFO]: [CHAT] Given [Damascus Steel Ingot] * 64 to QubicRage
+[22:49:42] [Server thread/INFO]: [QubicRage: Given [Steel Plate] * 64 to QubicRage]
+[22:49:42] [Client thread/INFO]: [CHAT] Given [Steel Plate] * 64 to QubicRage
+[22:49:55] [Server thread/INFO]: [QubicRage: Given [Steel Rod] * 64 to QubicRage]
+[22:49:55] [Client thread/INFO]: [CHAT] Given [Steel Rod] * 64 to QubicRage
+[22:50:01] [Server thread/INFO]: [QubicRage: Given [Steel Ingot] * 64 to QubicRage]
+[22:50:01] [Client thread/INFO]: [CHAT] Given [Steel Ingot] * 64 to QubicRage
+[22:50:14] [Server thread/INFO]: [QubicRage: Given [Saw] * 1 to QubicRage]
+[22:50:14] [Client thread/INFO]: [CHAT] Given [Saw] * 1 to QubicRage
+[22:52:54] [Client thread/INFO]: [CHAT] You are now playing creative
+[22:52:57] [Client thread/INFO]: [CHAT] You are now playing creative+
+[22:52:57] [Client thread/INFO]: [CHAT] You are now playing adventure
+[22:52:58] [Client thread/INFO]: [CHAT] You are now playing survival
+[22:53:00] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[22:53:02] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[22:53:03] [Client thread/INFO]: [CHAT] Questing Mode isn't enabled yet. use '/hqm quest' to enable it.
+[22:53:07] [Client thread/INFO]: [CHAT] Questing mode has been activated. Enjoy!
+[22:53:07] [Client thread/INFO]: [CHAT] You don't have permission to use this book.
+[22:55:08] [Server thread/INFO]: [QubicRage: Given [Low Voltage Battery Buffer] * 1 to QubicRage]
+[22:55:08] [Client thread/INFO]: [CHAT] Given [Low Voltage Battery Buffer] * 1 to QubicRage
+[23:00:26] [Server thread/INFO]: [QubicRage: Given [1x Tin Cable] * 64 to QubicRage]
+[23:00:26] [Client thread/INFO]: [CHAT] Given [1x Tin Cable] * 64 to QubicRage
+[23:01:42] [Server thread/INFO]: Saving and pausing game...
+[23:01:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[23:01:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[23:01:42] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[23:01:43] [Server thread/INFO]: Stopping server
+[23:01:43] [Server thread/INFO]: Saving players
+[23:01:43] [Server thread/INFO]: Saving worlds
+[23:01:43] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Overworld
+[23:01:43] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/Nether
+[23:01:43] [Server thread/INFO]: Saving chunks for level 'Let's Learn v0.5.0'/The End
+[23:01:45] [Client thread/INFO]: Stopping!
